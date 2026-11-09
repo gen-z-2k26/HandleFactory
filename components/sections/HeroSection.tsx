@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import type { StoreSettings } from "@/lib/types";
@@ -21,6 +22,14 @@ export function HeroSection({ settings }: { settings: StoreSettings }) {
       aria-labelledby="hero-heading"
       className="relative isolate h-[calc(100svh-3.5rem)] overflow-hidden bg-[#0C0C0C] text-white sm:h-[calc(100svh-4rem)]"
     >
+      <Image
+        src="/brand/home-hero.jpg"
+        alt="Living room with a lit modern fireplace"
+        fill
+        priority
+        sizes="100vw"
+        className="object-cover object-[70%_center]"
+      />
       <div
         aria-hidden
         className="absolute inset-0 bg-gradient-to-r from-[#0C0C0C]/92 via-[#0C0C0C]/70 to-[#0C0C0C]/25"
