@@ -101,7 +101,7 @@ export function hrefForAbsoluteUrl(url: string) {
   try {
     const parsed = new URL(url);
     const host = parsed.hostname.replace(/^www\./, "");
-    if (host === "droviia.us" || host === "orvexo.us") {
+    if (host === "droviia.us" || host === "orvexo.us" || host === "thehandlefactory.uk") {
       const path = parsed.pathname.replace(/\/$/, "") || "/";
       return path;
     }

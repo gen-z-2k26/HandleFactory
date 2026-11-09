@@ -1,4 +1,4 @@
-/** Public storefront paths, matching https://droviia.us/ */
+/** Public storefront paths, matching https://thehandlefactory.uk/ */
 
 export const CONTENT_PAGES = [
   { slug: "about-us", title: "About Us" },
@@ -42,6 +42,8 @@ const PATH_ALIASES: Record<string, string> = {
 };
 
 const STORE_HOSTS = new Set([
+  "thehandlefactory.uk",
+  "www.thehandlefactory.uk",
   "droviia.us",
   "www.droviia.us",
   "orvexo.us",

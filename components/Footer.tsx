@@ -16,7 +16,7 @@ export function Footer({ settings }: { settings: StoreSettings }) {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="dark mt-auto bg-[#101613] text-[#F3F7F2]">
+    <footer className="dark mt-auto bg-[#0C0C0C] text-[#F7F4F0]">
       <div className={pageContainer("py-12 sm:py-16")}>
         <Link href="/" className="inline-flex items-center">
           <BrandLogo heightClass="h-8 sm:h-9" alt={settings.name} />
@@ -34,14 +34,14 @@ export function Footer({ settings }: { settings: StoreSettings }) {
                     {isExternal(link.href) ? (
                       <a
                         href={link.href}
-                        className="transition-colors hover:text-[#9DCFB0] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#9DCFB0]"
+                        className="transition-colors hover:text-[#FD7601] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#FD7601]"
                       >
                         {link.label}
                       </a>
                     ) : (
                       <Link
                         href={link.href}
-                        className="transition-colors hover:text-[#9DCFB0] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#9DCFB0]"
+                        className="transition-colors hover:text-[#FD7601] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#FD7601]"
                       >
                         {link.label}
                       </Link>
@@ -55,32 +55,33 @@ export function Footer({ settings }: { settings: StoreSettings }) {
 
         <div className="mt-10 border-t border-white/15 pt-6">
           <p className="text-sm font-medium text-white">
-            {settings.footer?.contactTitle || "Customer Support"}
+            {settings.footer?.contactTitle || "Business Information"}
           </p>
           <p className="mt-2 text-sm text-white/75">
-            {settings.contact.email ? (
-              <a
-                href={`mailto:${settings.contact.email}`}
-                className="hover:text-[#9DCFB0]"
-              >
-                {settings.contact.email}
+            {settings.contact.legalName || settings.name}
+          </p>
+          {settings.contact.address ? (
+            <p className="mt-1 max-w-sm text-sm text-white/75">
+              {settings.contact.address}
+            </p>
+          ) : null}
+          <p className="mt-2 text-sm text-white/75">
+            {settings.contact.phone ? (
+              <a href={`tel:${phoneHref}`} className="hover:text-[#FD7601]">
+                {settings.contact.phone}
               </a>
             ) : null}
             {settings.contact.email && settings.contact.phone ? (
               <span className="px-2 text-white/40">|</span>
             ) : null}
-            {settings.contact.phone ? (
-              <a href={`tel:${phoneHref}`} className="hover:text-[#9DCFB0]">
-                {settings.contact.phone}
+            {settings.contact.email ? (
+              <a
+                href={`mailto:${settings.contact.email}`}
+                className="hover:text-[#FD7601]"
+              >
+                {settings.contact.email}
               </a>
             ) : null}
-          </p>
-          <p className="mt-1 text-sm text-white/75">
-            {settings.contact.openingHours}
-            {settings.contact.openingHours && settings.footer?.chatLine ? (
-              <span className="px-2 text-white/40">|</span>
-            ) : null}
-            {settings.footer?.chatLine}
           </p>
         </div>
 

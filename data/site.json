@@ -1,8 +1,8 @@
 {
-  "id": "droviia",
-  "name": "DROVIIA",
-  "tagline": "Everyday essentials for better living",
-  "logo": "/brand/droviia-logo-dark.png",
+  "id": "the-handle-factory",
+  "name": "The Handle Factory",
+  "tagline": "Home Heating, Comfort & Power Solutions",
+  "logo": "/brand/the-handle-factory-logo-dark.png",
   "currency": "",
   "currencySymbol": "",
   "currencyPrefix": "",
@@ -10,90 +10,154 @@
   "priceDecimals": 2,
   "thousandSeparator": ",",
   "decimalSeparator": ".",
-  "locale": "en-US",
+  "locale": "en-GB",
   "contact": {
-    "email": "info@droviia.us",
-    "phone": "+1 (424) 329-0223",
-    "address": "1320 W El Segundo Blvd Ste E, Gardena, CA 90247, United States",
-    "openingHours": "Mon-Fri, 9:00 AM-5:00 PM PT",
-    "legalName": "Modern Closet Spaces LLC",
+    "email": "info@thehandlefactory.uk",
+    "phone": "+44 20 1219 1343",
+    "address": "Studio 210, 134\u2013136 Curtain Road, London, England EC2A 3AR, United Kingdom",
+    "openingHours": "",
+    "legalName": "THE HANDLE FACTORY LTD",
     "vatNumber": ""
   },
   "promoBanner": "",
   "promoId": "",
   "promoCoupon": "",
   "hero": {
-    "headline": "Comfort, convenience, and the essentials for home",
-    "support": "Kitchen appliances, climate control, and personal care, with prices, shipping, and support you can review before you buy."
+    "headline": "Home heating, comfort, and power, chosen with clear information",
+    "support": "Fireplaces, wood stove accessories, generators, water heaters, saunas, and furnaces and boilers, with free UK standard shipping and support you can reach before you buy."
   },
   "navigation": {
     "header": [
-      { "label": "Home", "href": "/" },
-      { "label": "Shop", "href": "/products" },
-      { "label": "About", "href": "/about-us" },
-      { "label": "FAQs", "href": "/faqs" },
-      { "label": "Contact", "href": "/contact-us" }
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Shop",
+        "href": "/products"
+      },
+      {
+        "label": "About",
+        "href": "/about-us"
+      },
+      {
+        "label": "FAQs",
+        "href": "/faqs"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact-us"
+      }
     ],
     "footerColumns": [
       {
-        "title": "Quick Links",
-        "slug": "footer-discover",
+        "title": "Customer Service",
+        "slug": "footer-customer-service",
         "links": [
-          { "label": "Home", "href": "/" },
-          { "label": "Shop All", "href": "/products" },
-          { "label": "Reviews", "href": "/reviews" },
-          { "label": "Categories", "href": "/products" },
-          { "label": "About Us", "href": "/about-us" },
-          { "label": "Our Commitment", "href": "/our-commitment" },
-          { "label": "Contact Us", "href": "/contact-us" }
+          {
+            "label": "Contact Us",
+            "href": "/contact-us"
+          },
+          {
+            "label": "FAQs",
+            "href": "/faqs"
+          },
+          {
+            "label": "Shipping & Delivery",
+            "href": "/shipping-policy"
+          },
+          {
+            "label": "Returns & Refunds",
+            "href": "/return-and-refund-policy"
+          },
+          {
+            "label": "Order Cancellation Policy",
+            "href": "/cancellation-policy"
+          },
+          {
+            "label": "Track Your Order",
+            "href": "/track-your-order"
+          }
         ]
       },
       {
-        "title": "Customer Care",
-        "slug": "footer-customer-care",
+        "title": "Information",
+        "slug": "footer-information",
         "links": [
-          { "label": "FAQs", "href": "/faqs" },
-          { "label": "Shipping", "href": "/shipping-policy" },
-          { "label": "Returns", "href": "/return-and-refund-policy" },
-          { "label": "Cancellations", "href": "/cancellation-policy" },
-          { "label": "Order Tracking", "href": "/track-your-order" },
-          { "label": "Payments", "href": "/payment-policy" },
-          { "label": "Warranty", "href": "/warranty" },
-          { "label": "Order Help", "href": "/order-help-center" }
+          {
+            "label": "About Us",
+            "href": "/about-us"
+          },
+          {
+            "label": "Our Commitment",
+            "href": "/our-commitment"
+          },
+          {
+            "label": "Payment Methods",
+            "href": "/payment-policy"
+          },
+          {
+            "label": "Warranty & Support",
+            "href": "/warranty"
+          },
+          {
+            "label": "Order Help Centre",
+            "href": "/order-help-center"
+          }
         ]
       },
       {
         "title": "Legal & Policies",
         "slug": "footer-trust",
         "links": [
-          { "label": "Privacy", "href": "/privacy-policy" },
-          { "label": "Terms", "href": "/terms-of-service" },
-          { "label": "Cookies", "href": "/cookie-policy" },
-          { "label": "Legal Notice", "href": "/legal-notice" },
-          { "label": "Accessibility", "href": "/accessibility-statement" },
-          { "label": "Privacy Choices", "href": "/your-privacy-choices" }
+          {
+            "label": "Privacy Policy",
+            "href": "/privacy-policy"
+          },
+          {
+            "label": "Terms & Conditions",
+            "href": "/terms-of-service"
+          },
+          {
+            "label": "Cookie Policy",
+            "href": "/cookie-policy"
+          },
+          {
+            "label": "Legal Notice",
+            "href": "/legal-notice"
+          },
+          {
+            "label": "Accessibility Statement",
+            "href": "/accessibility-statement"
+          },
+          {
+            "label": "Your Privacy Choices",
+            "href": "/your-privacy-choices"
+          }
         ]
       }
     ]
   },
   "footer": {
-    "blurb": "Everyday essentials for a more comfortable home.",
+    "blurb": "Home heating, comfort, and power equipment for customers across the United Kingdom.",
     "trustLine": "",
-    "contactTitle": "Customer Support",
-    "chatLine": "24/7 Live Chat"
+    "contactTitle": "Business Information",
+    "chatLine": ""
   },
   "seo": {
-    "title": "DROVIIA | Home appliances and everyday essentials",
-    "description": "Shop home appliances, heating and cooling, and personal care at DROVIIA. Operated by Modern Closet Spaces LLC in Gardena, California.",
+    "title": "The Handle Factory | Home heating, comfort, and power",
+    "description": "Shop fireplaces, wood stove accessories, generators, water heaters, saunas, and furnaces and boilers at The Handle Factory. Operated by THE HANDLE FACTORY LTD in London, England.",
     "keywords": [
-      "DROVIIA",
-      "home appliances",
-      "kitchen appliances",
-      "air conditioners",
-      "personal care"
+      "The Handle Factory",
+      "fireplaces",
+      "wood stove accessories",
+      "generators",
+      "water heaters",
+      "saunas",
+      "furnaces and boilers"
     ],
-    "ogImage": "/brand/droviia-logo-dark.png",
-    "siteUrl": "https://www.droviia.us"
+    "ogImage": "/brand/the-handle-factory-logo-dark.png",
+    "siteUrl": "https://thehandlefactory.uk"
   },
   "theme": {
     "font": "var(--font-figtree)",
@@ -102,24 +166,24 @@
     "defaultMode": "system",
     "motion": "subtle",
     "light": {
-      "primary": "#9DCFB0",
-      "accent": "#3E6B52",
+      "primary": "#FD7601",
+      "accent": "#9A3408",
       "background": "#FFFFFF",
-      "foreground": "#1C2420",
-      "card": "#F4F7F2",
-      "muted": "#E7F0EA",
-      "mutedForeground": "#5C6B62",
-      "border": "rgba(28, 36, 32, 0.12)"
+      "foreground": "#141414",
+      "card": "#F7F4F0",
+      "muted": "#F3EDE6",
+      "mutedForeground": "#5C564F",
+      "border": "rgba(20, 20, 20, 0.12)"
     },
     "dark": {
-      "primary": "#9DCFB0",
-      "accent": "#B7DCC4",
-      "background": "#101613",
-      "foreground": "#F3F7F2",
-      "card": "#1A2420",
-      "muted": "#24302A",
-      "mutedForeground": "#A8B7AE",
-      "border": "rgba(243, 247, 242, 0.12)"
+      "primary": "#FD7601",
+      "accent": "#FD7601",
+      "background": "#0C0C0C",
+      "foreground": "#F7F4F0",
+      "card": "#171717",
+      "muted": "#242424",
+      "mutedForeground": "#A8A29E",
+      "border": "rgba(247, 244, 240, 0.14)"
     }
   },
   "productPage": {
@@ -141,82 +205,82 @@
         "reviewer": "Amina K.",
         "rating": 5,
         "title": "Better than the photos",
-        "content": "Packaging was careful and the item looked even better in person. Checkout was quick and tracking updates were clear.",
+        "content": "The fireplace accessory was packed carefully and looked even better in person. Checkout was clear and the tracking updates were easy to follow.",
         "date": "2026-09-18",
         "verified": true,
-        "location": "California, USA"
+        "location": "London, England"
       },
       {
         "reviewer": "James R.",
         "rating": 5,
         "title": "Would order again",
-        "content": "Arrived on time and matched the description. The whole process from cart to delivery felt straightforward.",
+        "content": "The generator arrived on time and matched the listing. Ordering from the site through to delivery was straightforward.",
         "date": "2026-09-02",
         "verified": true,
-        "location": "Texas, USA"
+        "location": "Manchester, England"
       },
       {
         "reviewer": "Sofia M.",
         "rating": 4,
-        "title": "Great value",
-        "content": "Solid quality for the price. Support answered my question the same day, which made the purchase easy.",
+        "title": "Clear before I bought",
+        "content": "Solid quality for the price. Support answered my question about installation the same day.",
         "date": "2026-08-21",
         "verified": true,
-        "location": "New York, USA"
+        "location": "Birmingham, England"
       },
       {
         "reviewer": "Daniel P.",
         "rating": 5,
         "title": "Well made and well packed",
-        "content": "Easy to buy, clear tracking, and the product feels well made. I would shop here again without hesitation.",
+        "content": "Easy to buy, clear tracking, and the stove tools feel well made. I would shop here again.",
         "date": "2026-08-09",
         "verified": true,
-        "location": "Florida, USA"
+        "location": "Leeds, England"
       },
       {
         "reviewer": "Priya S.",
         "rating": 5,
         "title": "Exactly as described",
-        "content": "Exactly what I needed. The photos were accurate and shipping was smooth from start to finish.",
+        "content": "Exactly the water heater specification I needed. The photos were accurate and UK delivery was smooth.",
         "date": "2026-07-28",
         "verified": true,
-        "location": "Illinois, USA"
+        "location": "Bristol, England"
       },
       {
         "reviewer": "Noah L.",
         "rating": 4,
         "title": "Happy overall",
-        "content": "Happy with the purchase. Quality is good. Delivery took a little longer than I hoped, but the item was worth the wait.",
+        "content": "Happy with the sauna. Quality is good. Delivery took a little longer than I hoped, but the item was worth the wait.",
         "date": "2026-07-14",
         "verified": true,
-        "location": "Washington, USA"
+        "location": "Glasgow, Scotland"
       },
       {
         "reviewer": "Elena V.",
         "rating": 5,
         "title": "Perfect as a gift",
-        "content": "Gifted this and they loved it. Simple process from cart to door, and the packaging looked ready to give.",
+        "content": "Gifted a fireplace set and they loved it. The process from basket to door was simple.",
         "date": "2026-06-30",
         "verified": true,
-        "location": "Colorado, USA"
+        "location": "Cardiff, Wales"
       },
       {
         "reviewer": "Omar H.",
         "rating": 5,
-        "title": "Clean store, fair prices",
-        "content": "Clean store, fair prices, and the item was packed securely. No surprises, which is what I want from an online order.",
+        "title": "Straightforward shop",
+        "content": "Fair prices and the item was packed securely. No surprises, which is what I want from an online order.",
         "date": "2026-06-11",
         "verified": true,
-        "location": "Georgia, USA"
+        "location": "Edinburgh, Scotland"
       },
       {
         "reviewer": "Maya T.",
         "rating": 5,
         "title": "Fast and careful shipping",
-        "content": "Ordered in the evening and had tracking the next morning. Everything arrived undamaged and ready to use.",
+        "content": "Ordered in the evening and had tracking the next working day. Everything arrived undamaged.",
         "date": "2026-05-22",
         "verified": true,
-        "location": "Arizona, USA"
+        "location": "Liverpool, England"
       },
       {
         "reviewer": "Chris B.",
@@ -225,25 +289,25 @@
         "content": "Good quality and a fair price. The site was easy to use. I would recommend it to a friend.",
         "date": "2026-05-04",
         "verified": true,
-        "location": "Ohio, USA"
+        "location": "Nottingham, England"
       },
       {
         "reviewer": "Lina W.",
         "rating": 3,
         "title": "Fine, not perfect",
-        "content": "The item is fine and does the job. Sizing notes on the page could be a bit clearer, but support helped quickly.",
+        "content": "The accessory does the job. A couple of fitting notes could be clearer, but support helped quickly.",
         "date": "2026-04-16",
         "verified": true,
-        "location": "Massachusetts, USA"
+        "location": "Belfast, Northern Ireland"
       },
       {
         "reviewer": "Theo A.",
         "rating": 5,
         "title": "Smooth checkout",
-        "content": "Checkout was simple, the total was clear before I paid, and the order showed up when promised.",
+        "content": "Checkout was simple, the total was in pounds before I paid, and the order showed up when the estimate said it would.",
         "date": "2026-03-29",
         "verified": true,
-        "location": "Oregon, USA"
+        "location": "Newcastle, England"
       }
     ]
   }

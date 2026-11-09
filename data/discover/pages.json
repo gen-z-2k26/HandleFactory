@@ -2,1438 +2,816 @@
   "pages": [
     {
       "slug": "about-us",
-      "title": "About DROVIIA",
+      "title": "About Us",
       "effectiveDate": "",
-      "tagline": "Bringing comfort, convenience, and innovation to everyday living",
+      "tagline": "The Handle Factory: Home Heating, Comfort & Power Solutions",
       "intro": [
-        "About DROVIIA"
+        "Welcome to The Handle Factory",
+        "At The Handle Factory, we believe that creating a comfortable, efficient, and well-equipped home starts with choosing the right products.",
+        "Operated by THE HANDLE FACTORY LTD, we are a UK-based online retailer specialising in home heating solutions, fireplaces, power equipment, saunas, and essential accessories."
       ],
-      "description": "Bringing Comfort, Convenience, and Innovation to Everyday Living",
-      "sections": [
-        {
-          "id": "bringing-comfort-convenience-and-innovation-to-everyday-living",
-          "title": "Bringing Comfort, Convenience, and Innovation to Everyday Living",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, we believe a better home starts with the right essentials. From modern kitchen appliances and climate control solutions to personal care devices and everyday household equipment, we're here to make finding the products you need simpler, more convenient, and more accessible."
-            },
-            {
-              "type": "paragraph",
-              "text": "Operated by Modern Closet Spaces LLC, DROVIIA is a U.S.-based online retailer offering a diverse selection of home appliances, personal care electronics, and practical solutions designed to support modern lifestyles."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our goal is simple: to provide a straightforward shopping experience built around product selection, transparent information, and dependable customer support."
-            }
-          ]
-        },
-        {
-          "id": "everything-you-need-for-a-more-comfortable-home",
-          "title": "Everything You Need for a More Comfortable Home",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Every home is different, and so are the products that make it work."
-            },
-            {
-              "type": "paragraph",
-              "text": "Whether you're upgrading your kitchen, improving indoor comfort, refreshing your personal care routine, or looking for practical home equipment, DROVIIA brings a variety of products together in one convenient online destination."
-            },
-            {
-              "type": "paragraph",
-              "text": "Explore our product collections:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Kitchen & Laundry Appliances: Refrigerators, wine fridges, range hoods, and laundry appliances for everyday household needs.",
-                "Heating, Cooling & Air Quality: Air conditioners, furnaces, boilers, humidifiers, and space heaters to help create a more comfortable indoor environment.",
-                "Hair & Personal Care: Hair dryers, straighteners, curling irons, and styling tool sets for your daily grooming routine.",
-                "Home & Commercial Essentials: Garage door openers and hand dryers designed for practical residential and commercial applications."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "We aim to make browsing and comparing products easier by presenting useful product details, specifications, and purchasing information."
-            }
-          ]
-        },
-        {
-          "id": "our-approach-to-online-shopping",
-          "title": "Our Approach to Online Shopping",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Shopping for home appliances and electronics should feel straightforward, not overwhelming."
-            },
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, we focus on the details that matter most to customers."
-            }
-          ]
-        },
-        {
-          "id": "a-wide-range-of-practical-products",
-          "title": "A Wide Range of Practical Products",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "We bring together products across multiple categories, helping customers explore different options for their homes, workplaces, and personal routines."
-            }
-          ]
-        },
-        {
-          "id": "clear-product-information",
-          "title": "Clear Product Information",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "We believe informed decisions lead to better shopping experiences. Our product listings aim to provide relevant descriptions, features, and specifications so you can compare options before purchasing."
-            }
-          ]
-        },
-        {
-          "id": "transparent-pricing-and-checkout",
-          "title": "Transparent Pricing and Checkout",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "We want customers to understand their purchases before placing an order. Product prices, applicable shipping charges, and order totals are presented during the shopping and checkout process."
-            }
-          ]
-        },
-        {
-          "id": "customer-support-when-you-need-it",
-          "title": "Customer Support When You Need It",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Questions can arise before or after a purchase. Our customer care channels are available to help with product inquiries, order information, delivery questions, and return requests."
-            }
-          ]
-        },
-        {
-          "id": "shopping-with-confidence",
-          "title": "Shopping with Confidence",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "We understand that purchasing appliances and electronics online requires careful consideration."
-            },
-            {
-              "type": "paragraph",
-              "text": "That's why we emphasize clear communication, accessible support, and straightforward shopping policies."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our customer experience is built around:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Convenient online shopping: Browse products and place orders from wherever you are.",
-                "Order transparency: Review your order information and available shipment tracking details.",
-                "Clear policies: Access information about shipping, returns, refunds, and order-related procedures.",
-                "Accessible assistance: Contact our customer care team when you need help.",
-                "Secure checkout: Complete purchases through the payment options available at checkout."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "We believe customer confidence comes from providing accurate information and following through on our commitments."
-            }
-          ]
-        },
-        {
-          "id": "our-commitment-to-you",
-          "title": "Our Commitment to You",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, our commitment extends beyond offering products."
-            },
-            {
-              "type": "paragraph",
-              "text": "We aim to create a shopping environment where customers can explore products comfortably, understand their purchasing options, and receive assistance when questions arise."
-            },
-            {
-              "type": "paragraph",
-              "text": "As we continue developing our online store, our priorities remain focused on improving product discovery, maintaining clear communication, and making the overall shopping experience more convenient."
-            },
-            {
-              "type": "paragraph",
-              "text": "Your home. Your comfort. Your everyday essentials."
-            }
-          ]
-        },
-        {
-          "id": "get-to-know-droviia",
-          "title": "Get to Know DROVIIA",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "DROVIIA is operated by Modern Closet Spaces LLC, a business based in Gardena, California."
-            },
-            {
-              "type": "paragraph",
-              "text": "We welcome questions about our products, orders, and customer service policies."
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Information"
-            },
-            {
-              "type": "paragraph",
-              "text": "Store Name: DROVIIA"
-            },
-            {
-              "type": "paragraph",
-              "text": "Legal Business Name: Modern Closet Spaces LLC"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Address: 1320 W El Segundo Blvd Ste E, Gardena, CA 90247, United States"
-            },
-            {
-              "type": "paragraph",
-              "text": "Website: https://droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "Customer Care"
-            },
-            {
-              "type": "paragraph",
-              "text": "Email: info@droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "Phone: +1 (424) 329-0223"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)"
-            },
-            {
-              "type": "paragraph",
-              "text": "Live Chat Support: Available 24/7"
-            },
-            {
-              "type": "paragraph",
-              "text": "Whether you're searching for a new appliance, exploring home comfort solutions, or need assistance with an existing order, our team is here to help."
-            },
-            {
-              "type": "paragraph",
-              "text": "DROVIIA — Everyday Essentials for Better Living."
-            }
-          ]
-        }
-      ],
+      "description": "At The Handle Factory, we believe that creating a comfortable, efficient, and well-equipped home starts with choosing the right products.",
+      "sections": [],
       "lines": [
-        "About DROVIIA",
-        "Bringing Comfort, Convenience, and Innovation to Everyday Living",
-        "At DROVIIA, we believe a better home starts with the right essentials. From modern kitchen appliances and climate control solutions to personal care devices and everyday household equipment, we're here to make finding the products you need simpler, more convenient, and more accessible.",
-        "Operated by Modern Closet Spaces LLC, DROVIIA is a U.S.-based online retailer offering a diverse selection of home appliances, personal care electronics, and practical solutions designed to support modern lifestyles.",
-        "Our goal is simple: to provide a straightforward shopping experience built around product selection, transparent information, and dependable customer support.",
-        "Everything You Need for a More Comfortable Home",
-        "Every home is different, and so are the products that make it work.",
-        "Whether you're upgrading your kitchen, improving indoor comfort, refreshing your personal care routine, or looking for practical home equipment, DROVIIA brings a variety of products together in one convenient online destination.",
-        "Explore our product collections:",
-        "* Kitchen & Laundry Appliances: Refrigerators, wine fridges, range hoods, and laundry appliances for everyday household needs.",
-        "* Heating, Cooling & Air Quality: Air conditioners, furnaces, boilers, humidifiers, and space heaters to help create a more comfortable indoor environment.",
-        "* Hair & Personal Care: Hair dryers, straighteners, curling irons, and styling tool sets for your daily grooming routine.",
-        "* Home & Commercial Essentials: Garage door openers and hand dryers designed for practical residential and commercial applications.",
-        "We aim to make browsing and comparing products easier by presenting useful product details, specifications, and purchasing information.",
-        "Our Approach to Online Shopping",
-        "Shopping for home appliances and electronics should feel straightforward, not overwhelming.",
-        "At DROVIIA, we focus on the details that matter most to customers.",
-        "A Wide Range of Practical Products",
-        "We bring together products across multiple categories, helping customers explore different options for their homes, workplaces, and personal routines.",
-        "Clear Product Information",
-        "We believe informed decisions lead to better shopping experiences. Our product listings aim to provide relevant descriptions, features, and specifications so you can compare options before purchasing.",
-        "Transparent Pricing and Checkout",
-        "We want customers to understand their purchases before placing an order. Product prices, applicable shipping charges, and order totals are presented during the shopping and checkout process.",
-        "Customer Support When You Need It",
-        "Questions can arise before or after a purchase. Our customer care channels are available to help with product inquiries, order information, delivery questions, and return requests.",
-        "Shopping with Confidence",
-        "We understand that purchasing appliances and electronics online requires careful consideration.",
-        "That's why we emphasize clear communication, accessible support, and straightforward shopping policies.",
-        "Our customer experience is built around:",
-        "* Convenient online shopping: Browse products and place orders from wherever you are.",
-        "* Order transparency: Review your order information and available shipment tracking details.",
-        "* Clear policies: Access information about shipping, returns, refunds, and order-related procedures.",
-        "* Accessible assistance: Contact our customer care team when you need help.",
-        "* Secure checkout: Complete purchases through the payment options available at checkout.",
-        "We believe customer confidence comes from providing accurate information and following through on our commitments.",
-        "Our Commitment to You",
-        "At DROVIIA, our commitment extends beyond offering products.",
-        "We aim to create a shopping environment where customers can explore products comfortably, understand their purchasing options, and receive assistance when questions arise.",
-        "As we continue developing our online store, our priorities remain focused on improving product discovery, maintaining clear communication, and making the overall shopping experience more convenient.",
-        "Your home. Your comfort. Your everyday essentials.",
-        "Get to Know DROVIIA",
-        "DROVIIA is operated by Modern Closet Spaces LLC, a business based in Gardena, California.",
-        "We welcome questions about our products, orders, and customer service policies.",
-        "Business Information",
-        "Store Name: DROVIIA",
-        "Legal Business Name: Modern Closet Spaces LLC",
-        "Business Address: 1320 W El Segundo Blvd Ste E, Gardena, CA 90247, United States",
-        "Website: https://droviia.us",
-        "Customer Care",
-        "Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)",
-        "Live Chat Support: Available 24/7",
-        "Whether you're searching for a new appliance, exploring home comfort solutions, or need assistance with an existing order, our team is here to help.",
-        "DROVIIA — Everyday Essentials for Better Living."
+        "About Us",
+        "Welcome to The Handle Factory",
+        "At The Handle Factory, we believe that creating a comfortable, efficient, and well-equipped home starts with choosing the right products.",
+        "Operated by THE HANDLE FACTORY LTD, we are a UK-based online retailer specialising in home heating solutions, fireplaces, power equipment, saunas, and essential accessories.",
+        "Through our online store, https://thehandlefactory.uk, we aim to make it easier for customers throughout the United Kingdom to explore and purchase products suited to their homes, properties, and everyday requirements.",
+        "Whether you're upgrading your heating system, improving your living space, preparing for unexpected power interruptions, or investing in home wellness equipment, The Handle Factory is here to help you make informed purchasing decisions.",
+        "Who We Are",
+        "The Handle Factory is an online retail business operated by THE HANDLE FACTORY LTD, with its business address in London, England.",
+        "Our store focuses on bringing together a selection of home improvement, heating, and power equipment in one convenient online shopping destination.",
+        "We understand that purchasing products such as fireplaces, boilers, generators, and saunas requires careful consideration. Product specifications, compatibility, installation requirements, and ongoing performance can all influence the purchasing decision.",
+        "That's why we aim to provide clear product information, transparent store policies, and accessible customer support.",
+        "Our approach is straightforward: help customers find suitable products while providing a convenient and dependable shopping experience.",
+        "What We Offer",
+        "We offer products across six main categories.",
+        "1. Wood Stove Accessories",
+        "Explore accessories designed to complement wood-burning stoves and fireplace installations.",
+        "Our range may include fireplace tools, stove accessories, maintenance equipment, and other products intended to support the use and upkeep of compatible heating appliances.",
+        "2. Fireplaces",
+        "Discover fireplace solutions for a variety of interior spaces and heating requirements.",
+        "Whether you're exploring traditional designs or modern heating options, our fireplace category helps you compare available products, features, and specifications.",
+        "3. Generators",
+        "Explore generators designed for a range of domestic, outdoor, and backup power applications.",
+        "We encourage customers to review power output, fuel requirements, operating conditions, and safety instructions before choosing a generator.",
+        "4. Water Heaters",
+        "Browse water heating equipment intended for different household and property requirements.",
+        "Product suitability depends on factors such as capacity, energy source, installation requirements, and compatibility with existing systems.",
+        "5. Saunas",
+        "Explore sauna products designed to bring relaxation and wellness experiences into suitable home environments.",
+        "Our sauna category offers customers the opportunity to compare different configurations, dimensions, and features.",
+        "6. Furnaces & Boilers",
+        "Discover heating equipment designed for residential and other suitable applications.",
+        "Customers should carefully review product specifications and consult appropriately qualified installers before purchasing equipment that requires professional installation.",
+        "Our Mission",
+        "Our mission is to make shopping for home heating, power equipment, and related products more straightforward, transparent, and accessible.",
+        "We aim to achieve this by focusing on three priorities:",
+        "Product Information: Helping customers understand product features, specifications, and suitability before purchasing.",
+        "Customer Convenience: Providing a clear online shopping experience with accessible information about orders, delivery, returns, and support.",
+        "Responsible Service: Communicating store policies transparently and respecting customers' rights under applicable UK consumer protection laws.",
+        "We believe customers should be able to make purchasing decisions with confidence and understand what to expect throughout the ordering process.",
+        "Why Shop With The Handle Factory?",
+        "A Focused Product Selection",
+        "Our store brings together products across home heating, power equipment, and related categories, helping customers explore different options in one place.",
+        "Free UK Standard Shipping",
+        "We offer free standard shipping on all eligible orders throughout the United Kingdom, with no minimum order value.",
+        "Our standard estimated delivery timeframe is 5–7 business days, comprising 3 business days of order handling and 2–4 business days of shipping transit.",
+        "Delivery estimates are subject to applicable business days, public holidays, and carrier conditions.",
+        "30-Day Returns",
+        "We offer a 30-day return window for eligible products.",
+        "Our return arrangements include:",
+        "* Returns for defective and non-defective products",
+        "* Exchanges for eligible products",
+        "* Free prepaid return shipping",
+        "* No restocking fees",
+        "* A standard refund processing target of 10 days",
+        "For complete terms, please review our Returns & Refunds Policy.",
+        "Your statutory consumer rights remain unaffected.",
+        "Clear and Transparent Policies",
+        "We aim to provide accessible information about shipping, returns, cancellations, payments, and warranty support so customers can understand the relevant terms before placing an order.",
+        "Accessible Customer Support",
+        "Our customer support team can assist with product enquiries, order information, delivery questions, returns, and general after-sales support.",
+        "Customers can contact us by email or telephone using the details provided below.",
+        "Our Commitment to Customers",
+        "We recognise that purchasing heating systems, generators, and other significant household equipment is an important decision.",
+        "Our commitment is to provide:",
+        "* Clear and relevant product descriptions",
+        "* Transparent pricing in British Pounds Sterling (GBP)",
+        "* Free standard UK shipping",
+        "* Accessible information about delivery expectations",
+        "* Straightforward returns and refund procedures",
+        "* Assistance with order-related enquiries",
+        "* Respect for applicable UK consumer rights",
+        "Where products require specialist installation, we encourage customers to consult appropriately qualified professionals and follow manufacturer guidance.",
+        "We want customers to understand their purchases and the support available to them.",
+        "Shopping With Confidence",
+        "At The Handle Factory, we aim to provide a clear purchasing process from product selection through to delivery and after-sales assistance.",
+        "Before completing an order, customers can review product information, pricing, delivery estimates, and applicable store policies.",
+        "After placing an order, customers can use available tracking information or contact our support team for assistance.",
+        "If an issue arises, we encourage customers to get in touch so that we can review the circumstances and work towards an appropriate resolution.",
+        "Our Business Information",
+        "Trading Name: The Handle Factory",
+        "Legal Business Name: THE HANDLE FACTORY LTD",
+        "Business Address:",
+        "Studio 210, 134–136 Curtain Road",
+        "London, England EC2A 3AR",
+        "United Kingdom",
+        "Website: https://thehandlefactory.uk",
+        "Customer Support Email: info@thehandlefactory.uk",
+        "Telephone: +44 20 1219 1343",
+        "Our business address is provided for company identification and correspondence. Please contact us before visiting, as we do not advertise it as a public retail showroom or collection location.",
+        "Get in Touch",
+        "Have a question about a product, an existing order, or our store policies?",
+        "We're here to help.",
+        "Email: info@thehandlefactory.uk",
+        "Phone: +44 20 1219 1343",
+        "You can also visit our Contact Us, FAQs, or Order Help Centre pages for additional assistance.",
+        "The Handle Factory — Home Heating, Comfort & Power Solutions",
+        "At The Handle Factory, our focus is on helping customers find suitable heating, home comfort, and power equipment through a convenient online shopping experience.",
+        "We look forward to supporting your next home improvement purchase.",
+        "The Handle Factory",
+        "Operated by THE HANDLE FACTORY LTD",
+        "https://thehandlefactory.uk"
       ]
     },
     {
       "slug": "contact-us",
       "title": "Contact Us",
       "effectiveDate": "",
-      "tagline": "We're here to help",
-      "intro": [],
-      "description": "At DROVIIA, we're committed to making your shopping experience as convenient and straightforward as possible. Whether you have a question about a product, need assistance with an order, or want to learn more about our sh",
-      "sections": [
-        {
-          "id": "we-re-here-to-help",
-          "title": "We're Here to Help",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, we're committed to making your shopping experience as convenient and straightforward as possible. Whether you have a question about a product, need assistance with an order, or want to learn more about our shipping and return policies, our customer care team is here to assist."
-            },
-            {
-              "type": "paragraph",
-              "text": "We value every customer inquiry and aim to provide clear, helpful, and professional support."
-            }
-          ]
-        },
-        {
-          "id": "get-in-touch-with-droviia",
-          "title": "Get in Touch With DROVIIA",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Have a question or need assistance? Choose the contact method that works best for you."
-            },
-            {
-              "type": "paragraph",
-              "text": "Email Support"
-            },
-            {
-              "type": "paragraph",
-              "text": "Email: info@droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "For product inquiries, order assistance, shipping questions, returns, refunds, and general customer service, please contact us by email."
-            },
-            {
-              "type": "paragraph",
-              "text": "If your inquiry concerns an existing order, include your order number and a brief description of your request so our team can assist you more efficiently."
-            },
-            {
-              "type": "paragraph",
-              "text": "Phone Support"
-            },
-            {
-              "type": "paragraph",
-              "text": "Phone: +1 (424) 329-0223"
-            },
-            {
-              "type": "paragraph",
-              "text": "Our customer care team is available during regular business hours to assist with questions about our products and services."
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Hours:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Monday–Friday: 9:00 AM–5:00 PM Pacific Time (PT)",
-                "Saturday–Sunday: Outside regular phone support hours"
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Live Chat Support — Available 24/7"
-            },
-            {
-              "type": "paragraph",
-              "text": "Need assistance outside regular business hours?"
-            },
-            {
-              "type": "paragraph",
-              "text": "Our website offers 24/7 live chat support, providing a convenient way to submit questions and request assistance at any time."
-            },
-            {
-              "type": "paragraph",
-              "text": "Look for the chat icon on our website to get started."
-            },
-            {
-              "type": "paragraph",
-              "text": "How Can We Help You?"
-            },
-            {
-              "type": "paragraph",
-              "text": "Our customer care team can assist with a variety of inquiries, including:"
-            }
-          ]
-        },
-        {
-          "id": "product-information-availability",
-          "title": "Product Information & Availability",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Need help understanding product specifications, features, or availability? Contact us before placing your order."
-            }
-          ]
-        },
-        {
-          "id": "order-status-tracking",
-          "title": "Order Status & Tracking",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Have questions about an existing order? Provide your order number, and we'll help you review the available order and shipment information."
-            },
-            {
-              "type": "paragraph",
-              "text": "Shipping & Delivery"
-            },
-            {
-              "type": "paragraph",
-              "text": "For questions about shipping charges, estimated delivery times, carrier information, or delivery concerns, our team can help explain the applicable shipping options."
-            },
-            {
-              "type": "paragraph",
-              "text": "Returns & Refunds"
-            },
-            {
-              "type": "paragraph",
-              "text": "Need to request a return or ask about a refund? Contact our team for information about eligibility, authorization, and the next steps under our Return & Refund Policy."
-            },
-            {
-              "type": "paragraph",
-              "text": "Payments & Checkout"
-            },
-            {
-              "type": "paragraph",
-              "text": "If you're experiencing difficulty completing a purchase or have questions about available payment methods, please reach out for assistance."
-            }
-          ]
-        },
-        {
-          "id": "warranty-product-support",
-          "title": "Warranty & Product Support",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "For questions about product warranties, manufacturer coverage, or product-related concerns, contact us with the relevant product details."
-            }
-          ]
-        },
-        {
-          "id": "send-us-a-message",
-          "title": "Send Us a Message",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "You can also reach us through the contact form on this page."
-            },
-            {
-              "type": "paragraph",
-              "text": "Please provide the following information:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Full Name",
-                "Email Address",
-                "Phone Number (Optional)",
-                "Order Number (If Applicable)",
-                "Subject",
-                "Your Message"
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Once your inquiry is submitted, our customer care team will review it and respond as soon as reasonably possible."
-            },
-            {
-              "type": "paragraph",
-              "text": "For order-related inquiries, please include relevant details to help us understand your request."
-            },
-            {
-              "type": "paragraph",
-              "text": "For your security, never include passwords, full payment card numbers, or other sensitive financial information in your message."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our Business Information"
-            },
-            {
-              "type": "paragraph",
-              "text": "Store Name: DROVIIA"
-            },
-            {
-              "type": "paragraph",
-              "text": "Legal Business Name: Modern Closet Spaces LLC"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Address:"
-            },
-            {
-              "type": "paragraph",
-              "text": "1320 W El Segundo Blvd Ste E"
-            },
-            {
-              "type": "paragraph",
-              "text": "Gardena, CA 90247"
-            },
-            {
-              "type": "paragraph",
-              "text": "United States"
-            },
-            {
-              "type": "paragraph",
-              "text": "Website: https://droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "Customer Support Email: info@droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "Phone: +1 (424) 329-0223"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)"
-            },
-            {
-              "type": "paragraph",
-              "text": "Live Chat Support: Available 24/7"
-            },
-            {
-              "type": "paragraph",
-              "text": "Please note: Our business address is provided for business correspondence. Do not send product returns to this address unless our customer care team has specifically authorized it and provided return instructions."
-            },
-            {
-              "type": "paragraph",
-              "text": "Helpful Resources"
-            },
-            {
-              "type": "paragraph",
-              "text": "Looking for quick answers? Visit our customer support pages for additional information."
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Frequently Asked Questions: /faqs/",
-                "Shipping & Delivery: /shipping-policy/",
-                "Returns & Refunds: /return-and-refund-policy/",
-                "Track Your Order: /track-your-order/",
-                "Order Help Center: /order-help-center/",
-                "Warranty & Product Support: /warranty/"
-              ]
-            }
-          ]
-        },
-        {
-          "id": "your-satisfaction-matters",
-          "title": "Your Satisfaction Matters",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, we believe good customer service starts with listening, understanding your concerns, and communicating clearly."
-            },
-            {
-              "type": "paragraph",
-              "text": "Whether you're exploring our home appliance collections or need assistance after placing an order, we're here to help you navigate the process."
-            },
-            {
-              "type": "paragraph",
-              "text": "DROVIIA — Everyday Essentials for Better Living."
-            }
-          ]
-        }
+      "tagline": "Email Address:",
+      "intro": [
+        "Welcome to The Handle Factory! We're here to help with any questions about our products, orders, deliveries, or after-sales support.",
+        "Whether you're looking for information about fireplaces, wood stove accessories, generators, water heaters, saunas, or furnaces and boilers, our customer support team is ready to assist you.",
+        "Get in Touch"
       ],
+      "description": "Welcome to The Handle Factory! We're here to help with any questions about our products, orders, deliveries, or after-sales support.",
+      "sections": [],
       "lines": [
         "Contact Us",
-        "We're Here to Help",
-        "At DROVIIA, we're committed to making your shopping experience as convenient and straightforward as possible. Whether you have a question about a product, need assistance with an order, or want to learn more about our shipping and return policies, our customer care team is here to assist.",
-        "We value every customer inquiry and aim to provide clear, helpful, and professional support.",
-        "Get in Touch With DROVIIA",
-        "Have a question or need assistance? Choose the contact method that works best for you.",
-        "Email Support",
-        "Email: info@droviia.us",
-        "For product inquiries, order assistance, shipping questions, returns, refunds, and general customer service, please contact us by email.",
-        "If your inquiry concerns an existing order, include your order number and a brief description of your request so our team can assist you more efficiently.",
-        "Phone Support",
-        "Phone: +1 (424) 329-0223",
-        "Our customer care team is available during regular business hours to assist with questions about our products and services.",
-        "Business Hours:",
-        "* Monday–Friday: 9:00 AM–5:00 PM Pacific Time (PT)",
-        "* Saturday–Sunday: Outside regular phone support hours",
-        "Live Chat Support — Available 24/7",
-        "Need assistance outside regular business hours?",
-        "Our website offers 24/7 live chat support, providing a convenient way to submit questions and request assistance at any time.",
-        "Look for the chat icon on our website to get started.",
+        "Welcome to The Handle Factory! We're here to help with any questions about our products, orders, deliveries, or after-sales support.",
+        "Whether you're looking for information about fireplaces, wood stove accessories, generators, water heaters, saunas, or furnaces and boilers, our customer support team is ready to assist you.",
+        "Get in Touch",
+        "Our team is available to help with product enquiries, order updates, warranty questions, and general customer support.",
+        "Email Address:",
+        "info@thehandlefactory.uk",
+        "Phone Number:",
+        "+44 20 1219 1343",
+        "Website:",
+        "https://thehandlefactory.uk",
+        "Business Address",
+        "The Handle Factory",
+        "Operated by THE HANDLE FACTORY LTD",
+        "Studio 210, 134–136 Curtain Road",
+        "London, England EC2A 3AR",
+        "United Kingdom",
+        "Please contact our customer support team before visiting, as this address is not advertised as a retail showroom or customer collection point.",
         "How Can We Help You?",
-        "Our customer care team can assist with a variety of inquiries, including:",
-        "Product Information & Availability",
-        "Need help understanding product specifications, features, or availability? Contact us before placing your order.",
-        "Order Status & Tracking",
-        "Have questions about an existing order? Provide your order number, and we'll help you review the available order and shipment information.",
+        "Product Enquiries",
+        "Need assistance choosing the right product? Contact our team for information about product specifications, compatibility, features, and availability.",
+        "Our product categories include:",
+        "* Wood Stove Accessories",
+        "* Fireplaces",
+        "* Generators",
+        "* Water Heaters",
+        "* Saunas",
+        "* Furnaces & Boilers",
+        "Order Support & Tracking",
+        "For questions about an existing order, delivery status, or tracking information, please contact us with your order number and the email address used at checkout.",
+        "You can also visit our Track Your Order page for available tracking information.",
         "Shipping & Delivery",
-        "For questions about shipping charges, estimated delivery times, carrier information, or delivery concerns, our team can help explain the applicable shipping options.",
-        "Returns & Refunds",
-        "Need to request a return or ask about a refund? Contact our team for information about eligibility, authorization, and the next steps under our Return & Refund Policy.",
-        "Payments & Checkout",
-        "If you're experiencing difficulty completing a purchase or have questions about available payment methods, please reach out for assistance.",
+        "We offer free standard shipping throughout the United Kingdom.",
+        "* Order cut-off: 12:00 AM GMT",
+        "* Order processing: 3 business days",
+        "* Estimated transit: 2–4 business days",
+        "* Estimated total delivery: 5–7 business days",
+        "* Fulfilment days: Monday to Friday",
+        "Delivery estimates exclude weekends and applicable public holidays.",
+        "For additional information, please visit our Shipping & Delivery Policy.",
+        "Returns, Refunds & Exchanges",
+        "We accept returns of eligible new products within 30 days, including defective and non-defective items. Exchanges are also accepted.",
+        "* Return method: By post",
+        "* Return label: Free prepaid return label included in the package",
+        "* Restocking fee: None",
+        "* Refund processing time: Within 10 days, subject to the applicable refund policy and statutory rights",
+        "To request assistance with a return or exchange, email info@thehandlefactory.uk with your order number and the reason for your request.",
+        "Please refer to our Returns & Refunds Policy for complete information.",
         "Warranty & Product Support",
-        "For questions about product warranties, manufacturer coverage, or product-related concerns, contact us with the relevant product details.",
+        "If you experience an issue with a product or need help understanding its warranty coverage, please contact us.",
+        "Include your order number, product name, and a description of the issue. Our support team will review your enquiry and advise you on the appropriate next steps.",
+        "Your statutory consumer rights remain unaffected by any manufacturer's warranty.",
         "Send Us a Message",
-        "You can also reach us through the contact form on this page.",
-        "Please provide the following information:",
+        "You can contact us directly using the details above or submit an enquiry through our website's contact form.",
+        "Suggested Contact Form Fields:",
         "* Full Name",
         "* Email Address",
         "* Phone Number (Optional)",
         "* Order Number (If Applicable)",
-        "* Subject",
-        "* Your Message",
-        "Once your inquiry is submitted, our customer care team will review it and respond as soon as reasonably possible.",
-        "For order-related inquiries, please include relevant details to help us understand your request.",
-        "For your security, never include passwords, full payment card numbers, or other sensitive financial information in your message.",
-        "Our Business Information",
-        "Store Name: DROVIIA",
-        "Legal Business Name: Modern Closet Spaces LLC",
-        "Business Address:",
-        "1320 W El Segundo Blvd Ste E",
-        "Gardena, CA 90247",
-        "United States",
-        "Website: https://droviia.us",
-        "Customer Support Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)",
-        "Live Chat Support: Available 24/7",
-        "Please note: Our business address is provided for business correspondence. Do not send product returns to this address unless our customer care team has specifically authorized it and provided return instructions.",
-        "Helpful Resources",
-        "Looking for quick answers? Visit our customer support pages for additional information.",
-        "* Frequently Asked Questions: /faqs/",
-        "* Shipping & Delivery: /shipping-policy/",
-        "* Returns & Refunds: /return-and-refund-policy/",
-        "* Track Your Order: /track-your-order/",
-        "* Order Help Center: /order-help-center/",
-        "* Warranty & Product Support: /warranty/",
-        "Your Satisfaction Matters",
-        "At DROVIIA, we believe good customer service starts with listening, understanding your concerns, and communicating clearly.",
-        "Whether you're exploring our home appliance collections or need assistance after placing an order, we're here to help you navigate the process.",
-        "DROVIIA — Everyday Essentials for Better Living."
+        "* Enquiry Type",
+        "* Message",
+        "Submit Button: Send Message",
+        "Please provide as much relevant information as possible so our team can assist you efficiently. Do not include payment card details or passwords in your message.",
+        "We're Here to Help",
+        "At The Handle Factory, we aim to provide clear communication, dependable customer service, and a straightforward shopping experience.",
+        "Whether you're shopping for home heating solutions, power equipment, or accessories, we're committed to helping you make informed purchasing decisions.",
+        "The Handle Factory",
+        "Operated by THE HANDLE FACTORY LTD",
+        "Email: info@thehandlefactory.uk",
+        "Phone: +44 20 1219 1343",
+        "Website: https://thehandlefactory.uk"
       ]
     },
     {
       "slug": "faqs",
-      "title": "Frequently Asked Questions (FAQs)",
+      "title": "Frequently Asked Questions",
       "effectiveDate": "",
-      "tagline": "How can we help you?",
+      "tagline": "The Handle Factory: Home Heating, Comfort & Power Solutions.",
       "intro": [
-        "Frequently Asked Questions (FAQs)",
-        "How Can We Help You?",
-        "Welcome to the DROVIIA Help Center.",
-        "We've put together answers to frequently asked questions about our products, ordering process, shipping, payments, returns, refunds, and customer support.",
-        "Whether you're shopping for home appliances, heating and cooling equipment, or personal care essentials, we're here to help you make informed purchasing decisions."
+        "Welcome to The Handle Factory's Frequently Asked Questions page. Here you'll find helpful information about our products, ordering process, payment options, shipping, returns, refunds, and customer support.",
+        "If you can't find the answer you're looking for, please contact our customer support team at info@thehandlefactory.uk or call +44 20 1219 1343."
       ],
-      "description": "We've put together answers to frequently asked questions about our products, ordering process, shipping, payments, returns, refunds, and customer support.",
+      "description": "Welcome to The Handle Factory's Frequently Asked Questions page. Here you'll find helpful information about our products, ordering process, payment options, shipping, returns, refunds, and customer support.",
       "sections": [
-        {
-          "id": "overview",
-          "title": "Overview",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Can't find the answer you're looking for? Contact our customer care team at info@droviia.us or use our 24/7 live chat support."
-            }
-          ]
-        },
         {
           "id": "general-questions",
           "title": "1. General Questions",
           "blocks": [
             {
               "type": "faq",
-              "question": "What is DROVIIA?",
-              "answer": "DROVIIA is a U.S.-based online retailer offering home appliances, heating and cooling equipment, personal care electronics, and practical household essentials. Our product collections include refrigerators, laundry appliances, air conditioners, space heaters, humidifiers, hair styling tools, garage door openers, and more. DROVIIA is operated by Modern Closet Spaces LLC, based in Gardena, California. Where is DROVIIA located? Our business information is: DROVIIA — Modern Closet Spaces LLC 1320 W El Segundo Blvd Ste E Gardena, CA 90247, United States You can contact our customer care team at +1 (424) 329-0223 or info@droviia.us. Please note that our listed business address is not automatically an authorized return location. Is DROVIIA an online store? Yes. DROVIIA operates through our website, https://droviia.us, where customers can browse available products, review product details, and place orders online. What types of products does DROVIIA sell? Our product selection includes: Kitchen & Laundry Appliances: Refrigerators, wine fridges, range hoods, and laundry appliances. Heating, Cooling & Air Quality: Air conditioners, furnaces, boilers, humidifiers, and space heaters. Hair & Personal Care: Hair dryers, straighteners, curling irons, and hair styling tool sets. Home & Commercial Essentials: Hand dryers and garage door openers. Product selection and availability may change over time. Are your products new and authentic? Product condition, brand, model, and included accessories should be identified in each listing. We aim to provide accurate product information so you can understand what you're purchasing. If you need confirmation about a particular product's condition, packaging, or specifications, contact us before placing your order. Why are some products offered at discounted prices? Product prices may vary based on inventory, promotional offers, product models, and market conditions. Certain products may be discounted as part of inventory clearance or promotional pricing. A discounted price does not, by itself, indicate that a product is used or defective. Please review the individual listing for the product's condition and specifications. Are you an authorized dealer for every brand you sell? Manufacturer authorization can vary by brand and product. We do not represent ourselves as an authorized dealer for a particular brand unless that relationship has been confirmed. If manufacturer authorization or warranty eligibility is important to your purchase, contact our support team for clarification before ordering."
+              "question": "What is The Handle Factory?",
+              "answer": "The Handle Factory is a UK-based online store offering a selection of home heating solutions, power equipment, and related accessories. Our product categories include: Wood Stove Accessories Fireplaces Generators Water Heaters Saunas Furnaces & Boilers Our goal is to provide customers with a straightforward and reliable online shopping experience."
+            },
+            {
+              "type": "faq",
+              "question": "Where is The Handle Factory located?",
+              "answer": "Our business details are: Legal Business Name: THE HANDLE FACTORY LTD Address: Studio 210, 134–136 Curtain Road, London, England EC2A 3AR, United Kingdom Website: https://thehandlefactory.uk Email: info@thehandlefactory.uk Phone: +44 20 1219 1343"
+            },
+            {
+              "type": "faq",
+              "question": "Do you have a physical showroom?",
+              "answer": "Our website operates as an online store. Please contact our customer support team before planning any visit to our business address."
+            },
+            {
+              "type": "faq",
+              "question": "Are your products brand new?",
+              "answer": "We sell products advertised as new. Product specifications, condition, and any included accessories are described on the relevant product pages. If you have questions about a particular item, please contact us before placing your order."
+            },
+            {
+              "type": "faq",
+              "question": "Are your products genuine?",
+              "answer": "Products are supplied as the brands and models described in their listings. If you require confirmation of a particular manufacturer's warranty or product specification, please contact our support team before purchasing."
             }
           ]
         },
         {
-          "id": "orders-product-availability",
-          "title": "2. Orders & Product Availability",
+          "id": "orders-and-payments",
+          "title": "2. Orders & Payments",
           "blocks": [
             {
               "type": "faq",
               "question": "How do I place an order?",
-              "answer": "Ordering from DROVIIA is straightforward: Browse our product categories or use the search feature. Select the product you want and review its specifications. Choose any available product options. Add the item to your shopping cart. Proceed to checkout and enter your delivery information. Review your order total, shipping charges, and payment options. Complete your purchase. Once your order is successfully placed, you should receive an order confirmation at the email address provided during checkout. Can I place an order without creating an account? Guest checkout availability depends on the options enabled on our website. If guest checkout is available, you can complete your purchase without registering an account. How can I check whether a product is in stock? Product availability is generally displayed on the product page. If you have questions about a specific model, size, color, or configuration, contact our customer care team before ordering. What happens if an item becomes unavailable after I place an order? If an ordered product becomes unavailable, our team will contact you to explain the situation and available options. Depending on the circumstances, you may be offered an alternative product, a revised fulfillment timeframe, or cancellation with a refund. We will not substitute a different product without your agreement. Can I modify or cancel my order? Please contact us as soon as possible at info@droviia.us with your order number and requested change. We'll review the order's fulfillment status to determine whether a modification or cancellation is still possible. Once an order has entered shipment preparation or has been dispatched, changes may no longer be possible. For more information, review our Order Cancellation Policy. Can I order multiple products at once? Yes. You can add multiple available products to your cart and complete checkout together. Depending on product size, availability, and fulfillment requirements, items from the same order may arrive in separate shipments."
+              "answer": "Ordering from The Handle Factory is straightforward: 1. Browse our website and select your preferred product. 2. Review the product specifications and availability. 3. Add the product to your basket. 4. Proceed to checkout. 5. Enter your delivery and billing information. 6. Select an available payment method and complete your purchase. After successfully placing your order, you should receive an order confirmation at the email address provided during checkout."
+            },
+            {
+              "type": "faq",
+              "question": "What currency do you accept?",
+              "answer": "All prices on our website are displayed in British Pounds Sterling (GBP, £)."
+            },
+            {
+              "type": "faq",
+              "question": "What payment methods do you accept?",
+              "answer": "The payment methods currently available to you will be displayed during checkout. Please review the available options before completing your purchase. For more information, visit our Payment Methods page."
+            },
+            {
+              "type": "faq",
+              "question": "Can I change my order after placing it?",
+              "answer": "If you need to change your order, please contact us as soon as possible at info@thehandlefactory.uk. We will review your request. Changes may not be possible once an order has entered the dispatch process."
+            },
+            {
+              "type": "faq",
+              "question": "Can I cancel my order?",
+              "answer": "You can contact us to request cancellation before dispatch. If your order has already been dispatched, you may still have cancellation and return rights under applicable UK consumer law. For complete details, please refer to our Order Cancellation Policy."
+            },
+            {
+              "type": "faq",
+              "question": "How can I check my order status?",
+              "answer": "You can check available order information through our Track Your Order page or contact our customer support team. When contacting us, please provide your order number and the email address used during checkout."
             }
           ]
         },
         {
-          "id": "shipping-delivery",
+          "id": "shipping-and-delivery",
           "title": "3. Shipping & Delivery",
           "blocks": [
             {
               "type": "faq",
-              "question": "Where does DROVIIA ship?",
-              "answer": "DROVIIA serves customers in the United States. Delivery availability may depend on the product, destination, and shipping method. Certain large appliances or specialized equipment may have location-specific shipping restrictions. How much does shipping cost? Our current standard shipping schedule is: Orders below $100 USD: $5 standard shipping. Orders of $100 USD or more: Free standard shipping. These rates are based on our existing standard shipping policy. Large appliances, freight shipments, and specialized deliveries may require different arrangements, which must be disclosed before purchase. The applicable shipping charge will be displayed during checkout. How long does delivery take? For orders eligible for our standard parcel shipping service, our current estimates are: Order processing: 0–1 business days. Carrier transit: 3–5 business days. Total estimated delivery: 3–6 business days. These estimates are not guaranteed delivery dates. Oversized appliances, freight shipments, and products requiring special handling may have different delivery timelines. Refer to the product listing and checkout information for applicable details. What is your daily order cutoff time? Our standard order cutoff is 3:00 PM Pacific Time (PT) on business days. Orders received before the cutoff may begin processing that day. Orders received afterward, on weekends, or on U.S. federal holidays generally begin processing on the next business day. Which shipping carriers do you use? Our standard parcel shipping carriers include: USPS UPS The carrier used for your order depends on the product and delivery requirements. Larger appliances may require a specialized freight carrier. How can I track my order? When your order ships, we'll send a shipping confirmation email containing the available tracking information. You can follow your shipment using the carrier's tracking service or visit our Track Your Order page. What should I do if my order is delayed? If your order hasn't arrived within the expected delivery window, review your tracking information first. If a standard parcel shipment has not arrived within seven business days after dispatch, contact info@droviia.us with your order number. Our team will help review the available shipment information. What if my package arrives damaged? Please inspect your delivery as soon as reasonably possible. If the package or product appears damaged, contact us promptly at info@droviia.us. Include your order number, a description of the issue, and clear photographs of the product and packaging. For large appliances, retain the packaging and any delivery documentation while our team reviews your claim."
+              "question": "Do you offer free shipping?",
+              "answer": "Yes. We offer free standard shipping on all orders delivered within the United Kingdom. There is no minimum order value required to qualify for free standard shipping."
+            },
+            {
+              "type": "faq",
+              "question": "Where do you deliver?",
+              "answer": "We currently offer delivery to eligible addresses throughout the United Kingdom. If you are unsure whether your postcode is eligible for delivery, please contact us before placing your order."
+            },
+            {
+              "type": "faq",
+              "question": "How long does delivery take?",
+              "answer": "Our estimated standard delivery timeframe is 5–7 business days. This consists of: Order handling: 3 business days Shipping transit: 2–4 business days Estimated total delivery: 5–7 business days Business days are Monday to Friday, excluding applicable public holidays. These are estimates rather than guaranteed delivery dates."
+            },
+            {
+              "type": "faq",
+              "question": "What is your order cut-off time?",
+              "answer": "Our order cut-off time is 12:00 AM (midnight), GMT, as configured in our shipping schedule. Orders are processed on business days, Monday to Friday."
+            },
+            {
+              "type": "faq",
+              "question": "How much does shipping cost?",
+              "answer": "Standard shipping is completely free for eligible UK orders, regardless of the order value."
+            },
+            {
+              "type": "faq",
+              "question": "Will I receive tracking information?",
+              "answer": "When tracking is available for your shipment, the relevant tracking information will be provided so you can monitor delivery progress. If you need assistance locating your tracking details, contact info@thehandlefactory.uk."
+            },
+            {
+              "type": "faq",
+              "question": "What happens if my order is delayed?",
+              "answer": "Although we aim to deliver within the estimated timeframe, unexpected carrier delays or other circumstances may affect delivery. If your order has not arrived within the expected period, please contact our support team with your order number. Your statutory delivery rights remain unaffected."
+            },
+            {
+              "type": "faq",
+              "question": "Can I collect my order in person?",
+              "answer": "Please contact customer support to confirm whether collection is available for your particular order. Do not visit our business address for collection without prior confirmation."
             }
           ]
         },
         {
-          "id": "payments-pricing",
-          "title": "4. Payments & Pricing",
+          "id": "returns-refunds-and-exchanges",
+          "title": "4. Returns, Refunds & Exchanges",
           "blocks": [
             {
               "type": "faq",
-              "question": "What payment methods does DROVIIA accept?",
-              "answer": "Available payment methods are displayed during checkout. Depending on the payment services currently enabled, these may include eligible debit cards, credit cards, or other supported payment options. Please refer to the checkout page for the most accurate information. Are your prices listed in U.S. dollars? Yes. Product prices on DROVIIA are displayed in USD (United States dollars). Are there any hidden fees? We aim to present applicable product charges, shipping costs, taxes, and other required checkout charges before you confirm your purchase. Certain optional services, such as specialized delivery or installation, may involve additional charges when offered. Why are some appliances priced lower than elsewhere? Prices can differ between retailers due to purchasing arrangements, inventory levels, promotional campaigns, and product availability. Some discounts may be associated with clearance inventory or particular product configurations. We encourage customers to compare model numbers, product conditions, included accessories, and warranty terms when evaluating prices. Can I use a discount or promotional code? If an eligible promotional code is available, enter it in the designated field during checkout. Discount codes may be subject to expiration dates, product exclusions, minimum purchase requirements, or other promotional conditions. Is my payment information secure? We aim to use appropriate security measures and supported payment processing services to protect customer transactions. Please review our Privacy Policy for information about how customer data is handled."
-            }
-          ]
-        },
-        {
-          "id": "returns-refunds-exchanges",
-          "title": "5. Returns, Refunds & Exchanges",
-          "blocks": [
+              "question": "What is your return policy?",
+              "answer": "We accept eligible returns within 30 days. Our returns policy covers both defective and non-defective products, subject to the applicable return conditions and your statutory consumer rights."
+            },
             {
               "type": "faq",
-              "question": "What is your return window?",
-              "answer": "Our current return policy provides a 30-day return request window from the delivery date for eligible products. Eligibility depends on the product's condition, category, reason for return, and applicable exclusions. Because DROVIIA offers both small electronics and large appliances, certain products may require additional return instructions. Can I return a product if I change my mind? Our existing policy excludes returns requested solely because of a change of mind. Other eligible return requests are reviewed according to the published Return & Refund Policy and applicable consumer protection laws. Please contact our customer care team before sending any product back. How do I request a return? To request a return: Email info@droviia.us with your order number. Identify the product and explain the reason for your request. Include photographs or supporting details if the product is damaged, defective, or incorrect. Wait for our team to review your request. If approved, follow the return instructions and use the designated return destination. Do not ship products to our business address without prior authorization. Do you charge a restocking fee? Under our existing standard return policy, a $5.00 USD restocking fee applies to approved non-defective standard returns. The fee is waived for approved claims involving damaged, defective, or incorrect products. Any different fees applicable to oversized appliances must be disclosed in the finalized return policy before they are applied. Who pays for return shipping? For approved standard returns involving non-defective products, customers are generally responsible for return shipping costs. For approved claims involving damaged, defective, or incorrect products, DROVIIA covers the necessary return shipping. Large appliances may require coordinated pickup or special return arrangements. How long does it take to receive a refund? After an authorized return arrives, our current policy provides for inspection within two business days. Once approved, refunds are generally processed within seven business days after inspection approval. Your bank or payment provider may require additional time to make the funds available. Do you offer exchanges? We do not currently offer direct exchanges. If you need a different product, model, size, or configuration, you may place a new order. If your original product qualifies for a return, submit a separate return request under the applicable policy. What happens if I receive the wrong item? Contact info@droviia.us promptly with your order number and photographs of the item received. Our team will review the issue and arrange an appropriate resolution, which may include a replacement or refund."
+              "question": "What condition must returned products be in?",
+              "answer": "For standard non-defective returns, products should be in new condition, with their original accessories and packaging where reasonably possible. Different rules may apply to defective or non-conforming goods under UK consumer law. Your statutory rights are not restricted by our standard return conditions."
+            },
+            {
+              "type": "faq",
+              "question": "Do you accept exchanges?",
+              "answer": "Yes. We accept exchanges. If you wish to exchange a product, contact our customer support team with your order number and the details of your request. Exchange arrangements may depend on product availability."
+            },
+            {
+              "type": "faq",
+              "question": "How do I return a product?",
+              "answer": "To initiate a return: 1. Contact info@thehandlefactory.uk with your order number. 2. Explain the reason for your return. 3. Our team will provide return instructions. 4. Use the prepaid return label included in your package. 5. Send the product back according to the provided instructions. Please retain proof of postage until your return has been resolved."
+            },
+            {
+              "type": "faq",
+              "question": "Do I have to pay return shipping fees?",
+              "answer": "No. We provide a free prepaid return label included in the package. There are no standard return shipping charges for eligible returns made using the provided label."
+            },
+            {
+              "type": "faq",
+              "question": "Do you charge restocking fees?",
+              "answer": "No. We do not charge restocking fees."
+            },
+            {
+              "type": "faq",
+              "question": "How long does a refund take?",
+              "answer": "Our stated refund processing timeframe is within 10 days. Refund timing depends on the circumstances of the return, and we will comply with applicable UK consumer refund deadlines. Once a refund has been issued, the time required for the funds to appear in your account may depend on your payment provider."
+            },
+            {
+              "type": "faq",
+              "question": "Can I return a defective or damaged product?",
+              "answer": "Yes. If your product arrives damaged, defective, or not as described, please contact us with your order number and details of the issue. Photographs may help us investigate the problem, but they do not replace your statutory rights. We will review the issue and provide an appropriate remedy in accordance with UK consumer law."
+            },
+            {
+              "type": "faq",
+              "question": "Can I return a product if I change my mind?",
+              "answer": "Yes. We accept eligible non-defective returns within our 30-day return window. Please contact our team for instructions and review the full Returns & Refunds Policy for the applicable conditions."
             }
           ]
         },
         {
-          "id": "product-warranties-technical-information",
-          "title": "6. Product Warranties & Technical Information",
+          "id": "product-information-and-warranty",
+          "title": "5. Product Information & Warranty",
           "blocks": [
             {
               "type": "faq",
               "question": "Do your products come with a warranty?",
-              "answer": "Warranty coverage depends on the product, manufacturer, and applicable purchase terms. Some products may include manufacturer warranty coverage, while others may have different support arrangements. Please review the product listing or contact us for warranty information before purchasing. Can you help me choose the right appliance? Our customer care team can help you locate available product specifications and information. For appliances requiring professional installation or compatibility assessments, we recommend consulting a qualified technician before purchasing. Do you provide installation services? Installation availability has not been established for all products. Unless installation is specifically included in the product listing or checkout, customers should not assume it is part of the purchase. Products such as furnaces, boilers, air conditioners, range hoods, and garage door openers may require professional installation. Can I install a furnace, boiler, or air conditioner myself? Some equipment requires installation by appropriately qualified professionals and may be subject to local building codes, permits, or safety regulations. Always follow the manufacturer's instructions and applicable local requirements. Improper installation can create safety risks and may affect warranty coverage. How do I know whether an appliance will fit my space? Review the product's dimensions, installation clearances, electrical requirements, ventilation requirements, and other relevant specifications. For built-in appliances or specialized equipment, confirm compatibility with your space and existing systems before ordering. What if my appliance stops working? Contact our support team with your order number, product model, and a description of the issue. We'll help identify the available support options based on the product's return eligibility and applicable warranty terms."
+              "answer": "Warranty coverage varies depending on the product and manufacturer. Where a manufacturer's or commercial warranty is available, the relevant details should be provided in the product information or accompanying documentation. Your statutory consumer rights apply independently of any commercial warranty."
+            },
+            {
+              "type": "faq",
+              "question": "Can you help me choose the right product?",
+              "answer": "Yes. Our customer support team can assist with general product information, specifications, and compatibility enquiries. For installations involving gas, electrical systems, combustion appliances, or other safety-critical equipment, consult an appropriately qualified professional."
+            },
+            {
+              "type": "faq",
+              "question": "Do fireplaces and boilers require professional installation?",
+              "answer": "Certain fireplaces, boilers, water heaters, and heating systems require professional installation to comply with safety regulations and manufacturer instructions. Depending on the appliance, this may require a Gas Safe registered engineer, a suitably qualified electrician, or another competent installer. Always check the specific product's installation requirements before purchasing."
+            },
+            {
+              "type": "faq",
+              "question": "Are generators suitable for indoor use?",
+              "answer": "No. Petrol, diesel, and other fuel-burning generators must never be operated indoors or in enclosed spaces. They can produce deadly carbon monoxide. Always follow the manufacturer's safety instructions and use the equipment only in suitable outdoor locations."
+            },
+            {
+              "type": "faq",
+              "question": "Can I purchase replacement parts or accessories?",
+              "answer": "You can browse our Wood Stove Accessories category and other relevant product listings. If you need a specific replacement component, contact us with the product brand, model number, and part details."
             }
           ]
         },
         {
-          "id": "customer-accounts-support",
-          "title": "7. Customer Accounts & Support",
+          "id": "customer-support",
+          "title": "6. Customer Support",
           "blocks": [
             {
               "type": "faq",
-              "question": "How can I contact DROVIIA?",
-              "answer": "You can reach us through: Email: info@droviia.us Phone: +1 (424) 329-0223 Live Chat: Available 24/7 Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT) What information should I provide when contacting customer support? For order-related inquiries, please include: Your order number. The email address associated with your purchase. A brief explanation of your question or concern. Relevant product details or photographs, when necessary. Please do not share passwords or complete payment card details. Can I contact customer support outside business hours? Yes. Our website offers 24/7 live chat support. Phone support is available during our regular business hours, Monday through Friday, 9:00 AM–5:00 PM PT. How can I request information about my personal data? For privacy-related inquiries, email info@droviia.us. You can also review our Privacy Policy and Your Privacy Choices page for additional information about available privacy rights and requests."
+              "question": "How can I contact The Handle Factory?",
+              "answer": "You can reach us through the following channels: Email: info@thehandlefactory.uk Phone: +44 20 1219 1343 Website: https://thehandlefactory.uk Business Address: THE HANDLE FACTORY LTD Studio 210, 134–136 Curtain Road London, England EC2A 3AR United Kingdom"
+            },
+            {
+              "type": "faq",
+              "question": "What information should I provide when contacting support?",
+              "answer": "For order-related enquiries, please include: Your full name Your order number The email address used at checkout A brief description of your enquiry For product issues, you may also provide the product model and relevant photographs. Please do not send passwords or full payment card details."
+            },
+            {
+              "type": "faq",
+              "question": "What should I do if I receive the wrong product?",
+              "answer": "If you receive an incorrect item, please contact us promptly at info@thehandlefactory.uk. Provide your order number and a description of the item received. We will review the issue and arrange an appropriate resolution."
+            },
+            {
+              "type": "faq",
+              "question": "How can I make a complaint?",
+              "answer": "If you are dissatisfied with any aspect of your shopping experience, please email info@thehandlefactory.uk with the subject line Customer Complaint. Include your order number, a description of the issue, and your preferred resolution. Our team will review your complaint and respond as soon as reasonably possible."
             }
           ]
         },
         {
-          "id": "business-information",
-          "title": "8. Business Information",
+          "id": "privacy-and-security",
+          "title": "7. Privacy & Security",
           "blocks": [
             {
               "type": "faq",
-              "question": "Who owns and operates DROVIIA?",
-              "answer": "DROVIIA is operated by Modern Closet Spaces LLC. Business Name: DROVIIA Legal Business Name: Modern Closet Spaces LLC Business Address: 1320 W El Segundo Blvd Ste E Gardena, CA 90247 United States Website: https://droviia.us Email: info@droviia.us Phone: +1 (424) 329-0223 Business Hours: Monday–Friday, 9:00 AM–5:00 PM PT Live Chat Support: Available 24/7 Still Have Questions? We're here to help you find the information you need. Whether you're comparing appliances, checking an order, or requesting customer support, the DROVIIA team is available to assist. Email: info@droviia.us Phone: +1 (424) 329-0223 You can also visit our Contact Us page or use our 24/7 live chat. DROVIIA — Everyday Essentials for Better Living."
+              "question": "Is my personal information protected?",
+              "answer": "We take customer privacy seriously and aim to handle personal information in accordance with applicable UK data protection requirements. Please review our Privacy Policy for details about how personal information is collected, used, stored, and shared."
+            },
+            {
+              "type": "faq",
+              "question": "Will you share my information with third parties?",
+              "answer": "We may share information with service providers where necessary to process payments, fulfil orders, deliver purchases, provide customer support, or meet legal obligations. Further details are available in our Privacy Policy."
+            },
+            {
+              "type": "faq",
+              "question": "How can I request information about my personal data?",
+              "answer": "You can contact info@thehandlefactory.uk to make a privacy-related enquiry or exercise applicable data protection rights."
+            },
+            {
+              "type": "faq",
+              "question": "Still Need Help?",
+              "answer": "If your question hasn't been answered above, our customer support team is here to assist. The Handle Factory Operated by THE HANDLE FACTORY LTD Email: info@thehandlefactory.uk Phone: +44 20 1219 1343 Website: https://thehandlefactory.uk We aim to make your shopping experience clear, convenient, and dependable. The Handle Factory — Home Heating, Comfort & Power Solutions."
             }
           ]
         }
       ],
       "lines": [
         "Frequently Asked Questions (FAQs)",
-        "How Can We Help You?",
-        "Welcome to the DROVIIA Help Center.",
-        "We've put together answers to frequently asked questions about our products, ordering process, shipping, payments, returns, refunds, and customer support.",
-        "Whether you're shopping for home appliances, heating and cooling equipment, or personal care essentials, we're here to help you make informed purchasing decisions.",
-        "Can't find the answer you're looking for? Contact our customer care team at info@droviia.us or use our 24/7 live chat support.",
+        "Welcome to The Handle Factory's Frequently Asked Questions page. Here you'll find helpful information about our products, ordering process, payment options, shipping, returns, refunds, and customer support.",
+        "If you can't find the answer you're looking for, please contact our customer support team at info@thehandlefactory.uk or call +44 20 1219 1343.",
         "1. General Questions",
-        "What is DROVIIA?",
-        "DROVIIA is a U.S.-based online retailer offering home appliances, heating and cooling equipment, personal care electronics, and practical household essentials.",
-        "Our product collections include refrigerators, laundry appliances, air conditioners, space heaters, humidifiers, hair styling tools, garage door openers, and more.",
-        "DROVIIA is operated by Modern Closet Spaces LLC, based in Gardena, California.",
-        "Where is DROVIIA located?",
-        "Our business information is:",
-        "DROVIIA — Modern Closet Spaces LLC",
-        "1320 W El Segundo Blvd Ste E",
-        "Gardena, CA 90247, United States",
-        "You can contact our customer care team at +1 (424) 329-0223 or info@droviia.us.",
-        "Please note that our listed business address is not automatically an authorized return location.",
-        "Is DROVIIA an online store?",
-        "Yes. DROVIIA operates through our website, https://droviia.us, where customers can browse available products, review product details, and place orders online.",
-        "What types of products does DROVIIA sell?",
-        "Our product selection includes:",
-        "* Kitchen & Laundry Appliances: Refrigerators, wine fridges, range hoods, and laundry appliances.",
-        "* Heating, Cooling & Air Quality: Air conditioners, furnaces, boilers, humidifiers, and space heaters.",
-        "* Hair & Personal Care: Hair dryers, straighteners, curling irons, and hair styling tool sets.",
-        "* Home & Commercial Essentials: Hand dryers and garage door openers.",
-        "Product selection and availability may change over time.",
-        "Are your products new and authentic?",
-        "Product condition, brand, model, and included accessories should be identified in each listing.",
-        "We aim to provide accurate product information so you can understand what you're purchasing. If you need confirmation about a particular product's condition, packaging, or specifications, contact us before placing your order.",
-        "Why are some products offered at discounted prices?",
-        "Product prices may vary based on inventory, promotional offers, product models, and market conditions.",
-        "Certain products may be discounted as part of inventory clearance or promotional pricing. A discounted price does not, by itself, indicate that a product is used or defective.",
-        "Please review the individual listing for the product's condition and specifications.",
-        "Are you an authorized dealer for every brand you sell?",
-        "Manufacturer authorization can vary by brand and product. We do not represent ourselves as an authorized dealer for a particular brand unless that relationship has been confirmed.",
-        "If manufacturer authorization or warranty eligibility is important to your purchase, contact our support team for clarification before ordering.",
-        "2. Orders & Product Availability",
+        "What is The Handle Factory?",
+        "The Handle Factory is a UK-based online store offering a selection of home heating solutions, power equipment, and related accessories.",
+        "Our product categories include:",
+        "* Wood Stove Accessories",
+        "* Fireplaces",
+        "* Generators",
+        "* Water Heaters",
+        "* Saunas",
+        "* Furnaces & Boilers",
+        "Our goal is to provide customers with a straightforward and reliable online shopping experience.",
+        "Where is The Handle Factory located?",
+        "Our business details are:",
+        "Legal Business Name: THE HANDLE FACTORY LTD",
+        "Address: Studio 210, 134–136 Curtain Road, London, England EC2A 3AR, United Kingdom",
+        "Website: https://thehandlefactory.uk",
+        "Email: info@thehandlefactory.uk",
+        "Phone: +44 20 1219 1343",
+        "Do you have a physical showroom?",
+        "Our website operates as an online store. Please contact our customer support team before planning any visit to our business address.",
+        "Are your products brand new?",
+        "We sell products advertised as new. Product specifications, condition, and any included accessories are described on the relevant product pages.",
+        "If you have questions about a particular item, please contact us before placing your order.",
+        "Are your products genuine?",
+        "Products are supplied as the brands and models described in their listings. If you require confirmation of a particular manufacturer's warranty or product specification, please contact our support team before purchasing.",
+        "2. Orders & Payments",
         "How do I place an order?",
-        "Ordering from DROVIIA is straightforward:",
-        "1. Browse our product categories or use the search feature.",
-        "2. Select the product you want and review its specifications.",
-        "3. Choose any available product options.",
-        "4. Add the item to your shopping cart.",
-        "5. Proceed to checkout and enter your delivery information.",
-        "6. Review your order total, shipping charges, and payment options.",
-        "7. Complete your purchase.",
-        "Once your order is successfully placed, you should receive an order confirmation at the email address provided during checkout.",
-        "Can I place an order without creating an account?",
-        "Guest checkout availability depends on the options enabled on our website. If guest checkout is available, you can complete your purchase without registering an account.",
-        "How can I check whether a product is in stock?",
-        "Product availability is generally displayed on the product page.",
-        "If you have questions about a specific model, size, color, or configuration, contact our customer care team before ordering.",
-        "What happens if an item becomes unavailable after I place an order?",
-        "If an ordered product becomes unavailable, our team will contact you to explain the situation and available options.",
-        "Depending on the circumstances, you may be offered an alternative product, a revised fulfillment timeframe, or cancellation with a refund.",
-        "We will not substitute a different product without your agreement.",
-        "Can I modify or cancel my order?",
-        "Please contact us as soon as possible at info@droviia.us with your order number and requested change.",
-        "We'll review the order's fulfillment status to determine whether a modification or cancellation is still possible.",
-        "Once an order has entered shipment preparation or has been dispatched, changes may no longer be possible.",
-        "For more information, review our Order Cancellation Policy.",
-        "Can I order multiple products at once?",
-        "Yes. You can add multiple available products to your cart and complete checkout together.",
-        "Depending on product size, availability, and fulfillment requirements, items from the same order may arrive in separate shipments.",
+        "Ordering from The Handle Factory is straightforward:",
+        "1. Browse our website and select your preferred product.",
+        "2. Review the product specifications and availability.",
+        "3. Add the product to your basket.",
+        "4. Proceed to checkout.",
+        "5. Enter your delivery and billing information.",
+        "6. Select an available payment method and complete your purchase.",
+        "After successfully placing your order, you should receive an order confirmation at the email address provided during checkout.",
+        "What currency do you accept?",
+        "All prices on our website are displayed in British Pounds Sterling (GBP, £).",
+        "What payment methods do you accept?",
+        "The payment methods currently available to you will be displayed during checkout.",
+        "Please review the available options before completing your purchase. For more information, visit our Payment Methods page.",
+        "Can I change my order after placing it?",
+        "If you need to change your order, please contact us as soon as possible at info@thehandlefactory.uk.",
+        "We will review your request. Changes may not be possible once an order has entered the dispatch process.",
+        "Can I cancel my order?",
+        "You can contact us to request cancellation before dispatch.",
+        "If your order has already been dispatched, you may still have cancellation and return rights under applicable UK consumer law.",
+        "For complete details, please refer to our Order Cancellation Policy.",
+        "How can I check my order status?",
+        "You can check available order information through our Track Your Order page or contact our customer support team.",
+        "When contacting us, please provide your order number and the email address used during checkout.",
         "3. Shipping & Delivery",
-        "Where does DROVIIA ship?",
-        "DROVIIA serves customers in the United States.",
-        "Delivery availability may depend on the product, destination, and shipping method. Certain large appliances or specialized equipment may have location-specific shipping restrictions.",
-        "How much does shipping cost?",
-        "Our current standard shipping schedule is:",
-        "* Orders below $100 USD: $5 standard shipping.",
-        "* Orders of $100 USD or more: Free standard shipping.",
-        "These rates are based on our existing standard shipping policy. Large appliances, freight shipments, and specialized deliveries may require different arrangements, which must be disclosed before purchase.",
-        "The applicable shipping charge will be displayed during checkout.",
+        "Do you offer free shipping?",
+        "Yes. We offer free standard shipping on all orders delivered within the United Kingdom.",
+        "There is no minimum order value required to qualify for free standard shipping.",
+        "Where do you deliver?",
+        "We currently offer delivery to eligible addresses throughout the United Kingdom.",
+        "If you are unsure whether your postcode is eligible for delivery, please contact us before placing your order.",
         "How long does delivery take?",
-        "For orders eligible for our standard parcel shipping service, our current estimates are:",
-        "* Order processing: 0–1 business days.",
-        "* Carrier transit: 3–5 business days.",
-        "* Total estimated delivery: 3–6 business days.",
-        "These estimates are not guaranteed delivery dates.",
-        "Oversized appliances, freight shipments, and products requiring special handling may have different delivery timelines. Refer to the product listing and checkout information for applicable details.",
-        "What is your daily order cutoff time?",
-        "Our standard order cutoff is 3:00 PM Pacific Time (PT) on business days.",
-        "Orders received before the cutoff may begin processing that day. Orders received afterward, on weekends, or on U.S. federal holidays generally begin processing on the next business day.",
-        "Which shipping carriers do you use?",
-        "Our standard parcel shipping carriers include:",
-        "* USPS",
-        "* UPS",
-        "The carrier used for your order depends on the product and delivery requirements. Larger appliances may require a specialized freight carrier.",
-        "How can I track my order?",
-        "When your order ships, we'll send a shipping confirmation email containing the available tracking information.",
-        "You can follow your shipment using the carrier's tracking service or visit our Track Your Order page.",
-        "What should I do if my order is delayed?",
-        "If your order hasn't arrived within the expected delivery window, review your tracking information first.",
-        "If a standard parcel shipment has not arrived within seven business days after dispatch, contact info@droviia.us with your order number.",
-        "Our team will help review the available shipment information.",
-        "What if my package arrives damaged?",
-        "Please inspect your delivery as soon as reasonably possible.",
-        "If the package or product appears damaged, contact us promptly at info@droviia.us.",
-        "Include your order number, a description of the issue, and clear photographs of the product and packaging.",
-        "For large appliances, retain the packaging and any delivery documentation while our team reviews your claim.",
-        "4. Payments & Pricing",
-        "What payment methods does DROVIIA accept?",
-        "Available payment methods are displayed during checkout.",
-        "Depending on the payment services currently enabled, these may include eligible debit cards, credit cards, or other supported payment options.",
-        "Please refer to the checkout page for the most accurate information.",
-        "Are your prices listed in U.S. dollars?",
-        "Yes. Product prices on DROVIIA are displayed in USD (United States dollars).",
-        "Are there any hidden fees?",
-        "We aim to present applicable product charges, shipping costs, taxes, and other required checkout charges before you confirm your purchase.",
-        "Certain optional services, such as specialized delivery or installation, may involve additional charges when offered.",
-        "Why are some appliances priced lower than elsewhere?",
-        "Prices can differ between retailers due to purchasing arrangements, inventory levels, promotional campaigns, and product availability.",
-        "Some discounts may be associated with clearance inventory or particular product configurations.",
-        "We encourage customers to compare model numbers, product conditions, included accessories, and warranty terms when evaluating prices.",
-        "Can I use a discount or promotional code?",
-        "If an eligible promotional code is available, enter it in the designated field during checkout.",
-        "Discount codes may be subject to expiration dates, product exclusions, minimum purchase requirements, or other promotional conditions.",
-        "Is my payment information secure?",
-        "We aim to use appropriate security measures and supported payment processing services to protect customer transactions.",
-        "Please review our Privacy Policy for information about how customer data is handled.",
-        "5. Returns, Refunds & Exchanges",
-        "What is your return window?",
-        "Our current return policy provides a 30-day return request window from the delivery date for eligible products.",
-        "Eligibility depends on the product's condition, category, reason for return, and applicable exclusions.",
-        "Because DROVIIA offers both small electronics and large appliances, certain products may require additional return instructions.",
+        "Our estimated standard delivery timeframe is 5–7 business days.",
+        "This consists of:",
+        "* Order handling: 3 business days",
+        "* Shipping transit: 2–4 business days",
+        "* Estimated total delivery: 5–7 business days",
+        "Business days are Monday to Friday, excluding applicable public holidays.",
+        "These are estimates rather than guaranteed delivery dates.",
+        "What is your order cut-off time?",
+        "Our order cut-off time is 12:00 AM (midnight), GMT, as configured in our shipping schedule.",
+        "Orders are processed on business days, Monday to Friday.",
+        "How much does shipping cost?",
+        "Standard shipping is completely free for eligible UK orders, regardless of the order value.",
+        "Will I receive tracking information?",
+        "When tracking is available for your shipment, the relevant tracking information will be provided so you can monitor delivery progress.",
+        "If you need assistance locating your tracking details, contact info@thehandlefactory.uk.",
+        "What happens if my order is delayed?",
+        "Although we aim to deliver within the estimated timeframe, unexpected carrier delays or other circumstances may affect delivery.",
+        "If your order has not arrived within the expected period, please contact our support team with your order number.",
+        "Your statutory delivery rights remain unaffected.",
+        "Can I collect my order in person?",
+        "Please contact customer support to confirm whether collection is available for your particular order. Do not visit our business address for collection without prior confirmation.",
+        "4. Returns, Refunds & Exchanges",
+        "What is your return policy?",
+        "We accept eligible returns within 30 days.",
+        "Our returns policy covers both defective and non-defective products, subject to the applicable return conditions and your statutory consumer rights.",
+        "What condition must returned products be in?",
+        "For standard non-defective returns, products should be in new condition, with their original accessories and packaging where reasonably possible.",
+        "Different rules may apply to defective or non-conforming goods under UK consumer law. Your statutory rights are not restricted by our standard return conditions.",
+        "Do you accept exchanges?",
+        "Yes. We accept exchanges.",
+        "If you wish to exchange a product, contact our customer support team with your order number and the details of your request.",
+        "Exchange arrangements may depend on product availability.",
+        "How do I return a product?",
+        "To initiate a return:",
+        "1. Contact info@thehandlefactory.uk with your order number.",
+        "2. Explain the reason for your return.",
+        "3. Our team will provide return instructions.",
+        "4. Use the prepaid return label included in your package.",
+        "5. Send the product back according to the provided instructions.",
+        "Please retain proof of postage until your return has been resolved.",
+        "Do I have to pay return shipping fees?",
+        "No. We provide a free prepaid return label included in the package.",
+        "There are no standard return shipping charges for eligible returns made using the provided label.",
+        "Do you charge restocking fees?",
+        "No. We do not charge restocking fees.",
+        "How long does a refund take?",
+        "Our stated refund processing timeframe is within 10 days.",
+        "Refund timing depends on the circumstances of the return, and we will comply with applicable UK consumer refund deadlines.",
+        "Once a refund has been issued, the time required for the funds to appear in your account may depend on your payment provider.",
+        "Can I return a defective or damaged product?",
+        "Yes. If your product arrives damaged, defective, or not as described, please contact us with your order number and details of the issue.",
+        "Photographs may help us investigate the problem, but they do not replace your statutory rights.",
+        "We will review the issue and provide an appropriate remedy in accordance with UK consumer law.",
         "Can I return a product if I change my mind?",
-        "Our existing policy excludes returns requested solely because of a change of mind.",
-        "Other eligible return requests are reviewed according to the published Return & Refund Policy and applicable consumer protection laws.",
-        "Please contact our customer care team before sending any product back.",
-        "How do I request a return?",
-        "To request a return:",
-        "1. Email info@droviia.us with your order number.",
-        "2. Identify the product and explain the reason for your request.",
-        "3. Include photographs or supporting details if the product is damaged, defective, or incorrect.",
-        "4. Wait for our team to review your request.",
-        "5. If approved, follow the return instructions and use the designated return destination.",
-        "Do not ship products to our business address without prior authorization.",
-        "Do you charge a restocking fee?",
-        "Under our existing standard return policy, a $5.00 USD restocking fee applies to approved non-defective standard returns.",
-        "The fee is waived for approved claims involving damaged, defective, or incorrect products.",
-        "Any different fees applicable to oversized appliances must be disclosed in the finalized return policy before they are applied.",
-        "Who pays for return shipping?",
-        "For approved standard returns involving non-defective products, customers are generally responsible for return shipping costs.",
-        "For approved claims involving damaged, defective, or incorrect products, DROVIIA covers the necessary return shipping.",
-        "Large appliances may require coordinated pickup or special return arrangements.",
-        "How long does it take to receive a refund?",
-        "After an authorized return arrives, our current policy provides for inspection within two business days.",
-        "Once approved, refunds are generally processed within seven business days after inspection approval.",
-        "Your bank or payment provider may require additional time to make the funds available.",
-        "Do you offer exchanges?",
-        "We do not currently offer direct exchanges.",
-        "If you need a different product, model, size, or configuration, you may place a new order.",
-        "If your original product qualifies for a return, submit a separate return request under the applicable policy.",
-        "What happens if I receive the wrong item?",
-        "Contact info@droviia.us promptly with your order number and photographs of the item received.",
-        "Our team will review the issue and arrange an appropriate resolution, which may include a replacement or refund.",
-        "6. Product Warranties & Technical Information",
+        "Yes. We accept eligible non-defective returns within our 30-day return window.",
+        "Please contact our team for instructions and review the full Returns & Refunds Policy for the applicable conditions.",
+        "5. Product Information & Warranty",
         "Do your products come with a warranty?",
-        "Warranty coverage depends on the product, manufacturer, and applicable purchase terms.",
-        "Some products may include manufacturer warranty coverage, while others may have different support arrangements.",
-        "Please review the product listing or contact us for warranty information before purchasing.",
-        "Can you help me choose the right appliance?",
-        "Our customer care team can help you locate available product specifications and information.",
-        "For appliances requiring professional installation or compatibility assessments, we recommend consulting a qualified technician before purchasing.",
-        "Do you provide installation services?",
-        "Installation availability has not been established for all products.",
-        "Unless installation is specifically included in the product listing or checkout, customers should not assume it is part of the purchase.",
-        "Products such as furnaces, boilers, air conditioners, range hoods, and garage door openers may require professional installation.",
-        "Can I install a furnace, boiler, or air conditioner myself?",
-        "Some equipment requires installation by appropriately qualified professionals and may be subject to local building codes, permits, or safety regulations.",
-        "Always follow the manufacturer's instructions and applicable local requirements.",
-        "Improper installation can create safety risks and may affect warranty coverage.",
-        "How do I know whether an appliance will fit my space?",
-        "Review the product's dimensions, installation clearances, electrical requirements, ventilation requirements, and other relevant specifications.",
-        "For built-in appliances or specialized equipment, confirm compatibility with your space and existing systems before ordering.",
-        "What if my appliance stops working?",
-        "Contact our support team with your order number, product model, and a description of the issue.",
-        "We'll help identify the available support options based on the product's return eligibility and applicable warranty terms.",
-        "7. Customer Accounts & Support",
-        "How can I contact DROVIIA?",
-        "You can reach us through:",
-        "Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "Live Chat: Available 24/7",
-        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)",
-        "What information should I provide when contacting customer support?",
-        "For order-related inquiries, please include:",
-        "* Your order number.",
-        "* The email address associated with your purchase.",
-        "* A brief explanation of your question or concern.",
-        "* Relevant product details or photographs, when necessary.",
-        "Please do not share passwords or complete payment card details.",
-        "Can I contact customer support outside business hours?",
-        "Yes. Our website offers 24/7 live chat support.",
-        "Phone support is available during our regular business hours, Monday through Friday, 9:00 AM–5:00 PM PT.",
-        "How can I request information about my personal data?",
-        "For privacy-related inquiries, email info@droviia.us.",
-        "You can also review our Privacy Policy and Your Privacy Choices page for additional information about available privacy rights and requests.",
-        "8. Business Information",
-        "Who owns and operates DROVIIA?",
-        "DROVIIA is operated by Modern Closet Spaces LLC.",
-        "Business Name: DROVIIA",
-        "Legal Business Name: Modern Closet Spaces LLC",
+        "Warranty coverage varies depending on the product and manufacturer.",
+        "Where a manufacturer's or commercial warranty is available, the relevant details should be provided in the product information or accompanying documentation.",
+        "Your statutory consumer rights apply independently of any commercial warranty.",
+        "Can you help me choose the right product?",
+        "Yes. Our customer support team can assist with general product information, specifications, and compatibility enquiries.",
+        "For installations involving gas, electrical systems, combustion appliances, or other safety-critical equipment, consult an appropriately qualified professional.",
+        "Do fireplaces and boilers require professional installation?",
+        "Certain fireplaces, boilers, water heaters, and heating systems require professional installation to comply with safety regulations and manufacturer instructions.",
+        "Depending on the appliance, this may require a Gas Safe registered engineer, a suitably qualified electrician, or another competent installer.",
+        "Always check the specific product's installation requirements before purchasing.",
+        "Are generators suitable for indoor use?",
+        "No. Petrol, diesel, and other fuel-burning generators must never be operated indoors or in enclosed spaces.",
+        "They can produce deadly carbon monoxide. Always follow the manufacturer's safety instructions and use the equipment only in suitable outdoor locations.",
+        "Can I purchase replacement parts or accessories?",
+        "You can browse our Wood Stove Accessories category and other relevant product listings.",
+        "If you need a specific replacement component, contact us with the product brand, model number, and part details.",
+        "6. Customer Support",
+        "How can I contact The Handle Factory?",
+        "You can reach us through the following channels:",
+        "Email: info@thehandlefactory.uk",
+        "Phone: +44 20 1219 1343",
+        "Website: https://thehandlefactory.uk",
         "Business Address:",
-        "1320 W El Segundo Blvd Ste E",
-        "Gardena, CA 90247",
-        "United States",
-        "Website: https://droviia.us",
-        "Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM PT",
-        "Live Chat Support: Available 24/7",
-        "Still Have Questions?",
-        "We're here to help you find the information you need.",
-        "Whether you're comparing appliances, checking an order, or requesting customer support, the DROVIIA team is available to assist.",
-        "Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "You can also visit our Contact Us page or use our 24/7 live chat.",
-        "DROVIIA — Everyday Essentials for Better Living."
+        "THE HANDLE FACTORY LTD",
+        "Studio 210, 134–136 Curtain Road",
+        "London, England EC2A 3AR",
+        "United Kingdom",
+        "What information should I provide when contacting support?",
+        "For order-related enquiries, please include:",
+        "* Your full name",
+        "* Your order number",
+        "* The email address used at checkout",
+        "* A brief description of your enquiry",
+        "For product issues, you may also provide the product model and relevant photographs.",
+        "Please do not send passwords or full payment card details.",
+        "What should I do if I receive the wrong product?",
+        "If you receive an incorrect item, please contact us promptly at info@thehandlefactory.uk.",
+        "Provide your order number and a description of the item received. We will review the issue and arrange an appropriate resolution.",
+        "How can I make a complaint?",
+        "If you are dissatisfied with any aspect of your shopping experience, please email info@thehandlefactory.uk with the subject line Customer Complaint.",
+        "Include your order number, a description of the issue, and your preferred resolution.",
+        "Our team will review your complaint and respond as soon as reasonably possible.",
+        "7. Privacy & Security",
+        "Is my personal information protected?",
+        "We take customer privacy seriously and aim to handle personal information in accordance with applicable UK data protection requirements.",
+        "Please review our Privacy Policy for details about how personal information is collected, used, stored, and shared.",
+        "Will you share my information with third parties?",
+        "We may share information with service providers where necessary to process payments, fulfil orders, deliver purchases, provide customer support, or meet legal obligations.",
+        "Further details are available in our Privacy Policy.",
+        "How can I request information about my personal data?",
+        "You can contact info@thehandlefactory.uk to make a privacy-related enquiry or exercise applicable data protection rights.",
+        "Still Need Help?",
+        "If your question hasn't been answered above, our customer support team is here to assist.",
+        "The Handle Factory",
+        "Operated by THE HANDLE FACTORY LTD",
+        "Email: info@thehandlefactory.uk",
+        "Phone: +44 20 1219 1343",
+        "Website: https://thehandlefactory.uk",
+        "We aim to make your shopping experience clear, convenient, and dependable.",
+        "The Handle Factory — Home Heating, Comfort & Power Solutions."
       ]
     },
     {
       "slug": "our-commitment",
       "title": "Our Commitment",
       "effectiveDate": "",
-      "tagline": "Your comfort. Our priority. Your confidence.",
+      "tagline": "The Handle Factory: Committed to Your Shopping Experience",
       "intro": [
-        "Your Comfort. Our Priority. Your Confidence.",
-        "At DROVIIA, we believe online shopping should be simple, transparent, and convenient. Whether you're upgrading your home appliances, exploring heating and cooling solutions, or shopping for personal care essentials, you deserve clear information, dependable service, and a shopping experience you can feel confident about.",
-        "Operated by Modern Closet Spaces LLC, DROVIIA is committed to making home appliances and everyday essentials more accessible to customers across the United States.",
-        "Our commitment goes beyond offering products. It's about building lasting customer relationships through honest communication, responsible business practices, and attentive support."
+        "Your Confidence, Our Priority",
+        "At The Handle Factory, we believe that every customer deserves a straightforward, transparent, and dependable shopping experience.",
+        "Operated by THE HANDLE FACTORY LTD, our UK-based online store focuses on providing home heating solutions, fireplaces, generators, water heaters, saunas, boilers, and related accessories."
       ],
-      "description": "Your Comfort. Our Priority. Your Confidence.",
-      "sections": [
-        {
-          "id": "quality-products-for-everyday-living",
-          "title": "1. Quality Products for Everyday Living",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "We understand that purchasing home appliances and electronics is an important decision."
-            },
-            {
-              "type": "paragraph",
-              "text": "From refrigerators and laundry appliances to air conditioners, heating equipment, and personal care devices, our goal is to offer a diverse selection of products that support your daily needs."
-            },
-            {
-              "type": "paragraph",
-              "text": "We are committed to:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Providing clear and informative product descriptions.",
-                "Displaying relevant specifications, features, and product details.",
-                "Helping customers compare products before making a purchase.",
-                "Communicating product availability and important purchasing information accurately.",
-                "Providing applicable warranty information when available."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "We believe every customer deserves the information needed to make an informed purchasing decision."
-            }
-          ]
-        },
-        {
-          "id": "fair-pricing-and-transparent-shopping",
-          "title": "2. Fair Pricing and Transparent Shopping",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, we believe a positive shopping experience begins with clarity."
-            },
-            {
-              "type": "paragraph",
-              "text": "We aim to offer competitive pricing while ensuring customers understand the costs associated with their purchases."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our pricing commitment includes:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Clearly displayed product prices in U.S. dollars.",
-                "Applicable shipping charges presented before checkout.",
-                "Transparent promotional offers and discount conditions.",
-                "No undisclosed charges added after an order is placed.",
-                "Clear information about available payment options."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Our focus is on delivering value through product selection, transparent pricing, and a convenient purchasing process."
-            }
-          ]
-        },
-        {
-          "id": "clear-shipping-and-delivery-information",
-          "title": "3. Clear Shipping and Delivery Information",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "We know how important it is to receive your order within a reasonable timeframe."
-            },
-            {
-              "type": "paragraph",
-              "text": "That's why we aim to communicate shipping information clearly, from order processing through delivery."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our commitment includes:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Providing applicable shipping rates before purchase.",
-                "Communicating estimated processing and delivery timeframes.",
-                "Sending shipment confirmation and tracking information when available.",
-                "Assisting customers with delivery-related questions.",
-                "Notifying customers of significant fulfillment delays and explaining their available options."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Delivery methods, charges, and estimated timelines may vary depending on the product's size, weight, destination, and shipping requirements."
-            },
-            {
-              "type": "paragraph",
-              "text": "For complete information, please review our Shipping & Delivery Policy."
-            }
-          ]
-        },
-        {
-          "id": "straightforward-returns-and-refunds",
-          "title": "4. Straightforward Returns and Refunds",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "We understand that circumstances can change and that products may occasionally arrive damaged, defective, or different from what was ordered."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our goal is to make the return and refund process as clear and manageable as possible."
-            },
-            {
-              "type": "paragraph",
-              "text": "We are committed to:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Explaining product return eligibility and applicable exclusions.",
-                "Providing clear instructions for submitting return requests.",
-                "Reviewing damaged, defective, or incorrect-item claims fairly.",
-                "Communicating applicable return shipping charges and restocking fees.",
-                "Processing approved refunds according to our published policy.",
-                "Respecting applicable consumer protection rights."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Return eligibility may differ by product type, condition, and the reason for the request. Certain appliances may also have special handling or return requirements."
-            },
-            {
-              "type": "paragraph",
-              "text": "For full details, please review our Return & Refund Policy."
-            }
-          ]
-        },
-        {
-          "id": "responsive-and-accessible-customer-support",
-          "title": "5. Responsive and Accessible Customer Support",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Customer service is an essential part of the DROVIIA shopping experience."
-            },
-            {
-              "type": "paragraph",
-              "text": "Whether you have questions before purchasing or need assistance with an existing order, we want you to know how to reach us."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our customer care team can assist with:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "General product and availability inquiries.",
-                "Order confirmation and status questions.",
-                "Shipping and tracking assistance.",
-                "Return and refund requests.",
-                "Payment-related inquiries.",
-                "Product warranty and support information."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "Customer Support Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT)."
-            },
-            {
-              "type": "paragraph",
-              "text": "Live Chat Support: Available 24/7."
-            },
-            {
-              "type": "paragraph",
-              "text": "We aim to address customer inquiries professionally, respectfully, and with clear communication."
-            }
-          ]
-        },
-        {
-          "id": "responsible-and-secure-shopping",
-          "title": "6. Responsible and Secure Shopping",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "We recognize the importance of protecting customer information and providing a trustworthy online shopping environment."
-            },
-            {
-              "type": "paragraph",
-              "text": "DROVIIA is committed to responsible handling of personal information and transparent communication about how customer data is used."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our priorities include:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Using appropriate safeguards to protect customer information.",
-                "Providing access to our Privacy Policy and Terms of Service.",
-                "Explaining how personal information may be collected and processed.",
-                "Supporting applicable customer privacy rights.",
-                "Offering payment methods through the checkout options available on our website."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "We encourage customers to review our Privacy Policy for additional information about our data practices."
-            }
-          ]
-        },
-        {
-          "id": "honest-communication-and-accountability",
-          "title": "7. Honest Communication and Accountability",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Trust is earned through consistency, transparency, and responsible actions."
-            },
-            {
-              "type": "paragraph",
-              "text": "We believe customers should receive accurate information about the products they purchase and the services they can expect."
-            },
-            {
-              "type": "paragraph",
-              "text": "We are committed to:"
-            },
-            {
-              "type": "bullets",
-              "items": [
-                "Avoiding misleading product descriptions or unsupported claims.",
-                "Clearly communicating important product limitations and requirements.",
-                "Providing accurate information about shipping, returns, and warranties.",
-                "Addressing customer concerns fairly.",
-                "Improving our website and customer experience based on customer needs."
-              ]
-            },
-            {
-              "type": "paragraph",
-              "text": "If an issue arises, our priority is to understand the situation, explain the available options, and work toward an appropriate resolution."
-            }
-          ]
-        },
-        {
-          "id": "continuously-improving-your-shopping-experience",
-          "title": "8. Continuously Improving Your Shopping Experience",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, we believe there is always room to improve."
-            },
-            {
-              "type": "paragraph",
-              "text": "As our product selection and online shopping experience develop, we aim to make it easier for customers to discover products, compare options, and find the information they need."
-            },
-            {
-              "type": "paragraph",
-              "text": "Our ongoing priorities include improving website navigation, product information, mobile usability, order communication, and customer support accessibility."
-            },
-            {
-              "type": "paragraph",
-              "text": "We value customer feedback because it helps us identify opportunities to serve you better."
-            }
-          ]
-        },
-        {
-          "id": "the-droviia-promise",
-          "title": "The DROVIIA Promise",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Your home deserves thoughtful choices. Your purchases deserve clear information. And your trust deserves our attention."
-            },
-            {
-              "type": "paragraph",
-              "text": "At DROVIIA, we strive to bring these principles together in every shopping experience."
-            },
-            {
-              "type": "paragraph",
-              "text": "Whether you're purchasing a small personal care appliance or investing in a major household upgrade, our commitment remains the same: clear information, transparent policies, and customer-focused service."
-            },
-            {
-              "type": "paragraph",
-              "text": "Thank you for choosing DROVIIA as part of your everyday living."
-            }
-          ]
-        },
-        {
-          "id": "we-re-here-to-help",
-          "title": "We're Here to Help",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "Have a question about a product, an order, or our store policies? Our customer care team is available to assist."
-            },
-            {
-              "type": "paragraph",
-              "text": "DROVIIA"
-            },
-            {
-              "type": "paragraph",
-              "text": "Operated by Modern Closet Spaces LLC"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Address:"
-            },
-            {
-              "type": "paragraph",
-              "text": "1320 W El Segundo Blvd Ste E"
-            },
-            {
-              "type": "paragraph",
-              "text": "Gardena, CA 90247, United States"
-            },
-            {
-              "type": "paragraph",
-              "text": "Email: info@droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "Phone: +1 (424) 329-0223"
-            },
-            {
-              "type": "paragraph",
-              "text": "Business Hours: Monday–Friday, 9:00 AM–5:00 PM PT"
-            },
-            {
-              "type": "paragraph",
-              "text": "Live Chat: Available 24/7"
-            },
-            {
-              "type": "paragraph",
-              "text": "Website: https://droviia.us"
-            },
-            {
-              "type": "paragraph",
-              "text": "DROVIIA — Everyday Essentials for Better Living."
-            }
-          ]
-        }
-      ],
+      "description": "At The Handle Factory, we believe that every customer deserves a straightforward, transparent, and dependable shopping experience.",
+      "sections": [],
       "lines": [
         "Our Commitment",
-        "Your Comfort. Our Priority. Your Confidence.",
-        "At DROVIIA, we believe online shopping should be simple, transparent, and convenient. Whether you're upgrading your home appliances, exploring heating and cooling solutions, or shopping for personal care essentials, you deserve clear information, dependable service, and a shopping experience you can feel confident about.",
-        "Operated by Modern Closet Spaces LLC, DROVIIA is committed to making home appliances and everyday essentials more accessible to customers across the United States.",
-        "Our commitment goes beyond offering products. It's about building lasting customer relationships through honest communication, responsible business practices, and attentive support.",
-        "1. Quality Products for Everyday Living",
-        "We understand that purchasing home appliances and electronics is an important decision.",
-        "From refrigerators and laundry appliances to air conditioners, heating equipment, and personal care devices, our goal is to offer a diverse selection of products that support your daily needs.",
-        "We are committed to:",
-        "* Providing clear and informative product descriptions.",
-        "* Displaying relevant specifications, features, and product details.",
-        "* Helping customers compare products before making a purchase.",
-        "* Communicating product availability and important purchasing information accurately.",
-        "* Providing applicable warranty information when available.",
-        "We believe every customer deserves the information needed to make an informed purchasing decision.",
-        "2. Fair Pricing and Transparent Shopping",
-        "At DROVIIA, we believe a positive shopping experience begins with clarity.",
-        "We aim to offer competitive pricing while ensuring customers understand the costs associated with their purchases.",
-        "Our pricing commitment includes:",
-        "* Clearly displayed product prices in U.S. dollars.",
-        "* Applicable shipping charges presented before checkout.",
-        "* Transparent promotional offers and discount conditions.",
-        "* No undisclosed charges added after an order is placed.",
-        "* Clear information about available payment options.",
-        "Our focus is on delivering value through product selection, transparent pricing, and a convenient purchasing process.",
-        "3. Clear Shipping and Delivery Information",
-        "We know how important it is to receive your order within a reasonable timeframe.",
-        "That's why we aim to communicate shipping information clearly, from order processing through delivery.",
-        "Our commitment includes:",
-        "* Providing applicable shipping rates before purchase.",
-        "* Communicating estimated processing and delivery timeframes.",
-        "* Sending shipment confirmation and tracking information when available.",
-        "* Assisting customers with delivery-related questions.",
-        "* Notifying customers of significant fulfillment delays and explaining their available options.",
-        "Delivery methods, charges, and estimated timelines may vary depending on the product's size, weight, destination, and shipping requirements.",
-        "For complete information, please review our Shipping & Delivery Policy.",
-        "4. Straightforward Returns and Refunds",
-        "We understand that circumstances can change and that products may occasionally arrive damaged, defective, or different from what was ordered.",
-        "Our goal is to make the return and refund process as clear and manageable as possible.",
-        "We are committed to:",
-        "* Explaining product return eligibility and applicable exclusions.",
-        "* Providing clear instructions for submitting return requests.",
-        "* Reviewing damaged, defective, or incorrect-item claims fairly.",
-        "* Communicating applicable return shipping charges and restocking fees.",
-        "* Processing approved refunds according to our published policy.",
-        "* Respecting applicable consumer protection rights.",
-        "Return eligibility may differ by product type, condition, and the reason for the request. Certain appliances may also have special handling or return requirements.",
-        "For full details, please review our Return & Refund Policy.",
-        "5. Responsive and Accessible Customer Support",
-        "Customer service is an essential part of the DROVIIA shopping experience.",
-        "Whether you have questions before purchasing or need assistance with an existing order, we want you to know how to reach us.",
-        "Our customer care team can assist with:",
-        "* General product and availability inquiries.",
-        "* Order confirmation and status questions.",
-        "* Shipping and tracking assistance.",
-        "* Return and refund requests.",
-        "* Payment-related inquiries.",
-        "* Product warranty and support information.",
-        "Customer Support Hours: Monday–Friday, 9:00 AM–5:00 PM Pacific Time (PT).",
-        "Live Chat Support: Available 24/7.",
-        "We aim to address customer inquiries professionally, respectfully, and with clear communication.",
-        "6. Responsible and Secure Shopping",
-        "We recognize the importance of protecting customer information and providing a trustworthy online shopping environment.",
-        "DROVIIA is committed to responsible handling of personal information and transparent communication about how customer data is used.",
-        "Our priorities include:",
-        "* Using appropriate safeguards to protect customer information.",
-        "* Providing access to our Privacy Policy and Terms of Service.",
-        "* Explaining how personal information may be collected and processed.",
-        "* Supporting applicable customer privacy rights.",
-        "* Offering payment methods through the checkout options available on our website.",
-        "We encourage customers to review our Privacy Policy for additional information about our data practices.",
-        "7. Honest Communication and Accountability",
-        "Trust is earned through consistency, transparency, and responsible actions.",
-        "We believe customers should receive accurate information about the products they purchase and the services they can expect.",
-        "We are committed to:",
-        "* Avoiding misleading product descriptions or unsupported claims.",
-        "* Clearly communicating important product limitations and requirements.",
-        "* Providing accurate information about shipping, returns, and warranties.",
-        "* Addressing customer concerns fairly.",
-        "* Improving our website and customer experience based on customer needs.",
-        "If an issue arises, our priority is to understand the situation, explain the available options, and work toward an appropriate resolution.",
-        "8. Continuously Improving Your Shopping Experience",
-        "At DROVIIA, we believe there is always room to improve.",
-        "As our product selection and online shopping experience develop, we aim to make it easier for customers to discover products, compare options, and find the information they need.",
-        "Our ongoing priorities include improving website navigation, product information, mobile usability, order communication, and customer support accessibility.",
-        "We value customer feedback because it helps us identify opportunities to serve you better.",
-        "The DROVIIA Promise",
-        "Your home deserves thoughtful choices. Your purchases deserve clear information. And your trust deserves our attention.",
-        "At DROVIIA, we strive to bring these principles together in every shopping experience.",
-        "Whether you're purchasing a small personal care appliance or investing in a major household upgrade, our commitment remains the same: clear information, transparent policies, and customer-focused service.",
-        "Thank you for choosing DROVIIA as part of your everyday living.",
-        "We're Here to Help",
-        "Have a question about a product, an order, or our store policies? Our customer care team is available to assist.",
-        "DROVIIA",
-        "Operated by Modern Closet Spaces LLC",
+        "Your Confidence, Our Priority",
+        "At The Handle Factory, we believe that every customer deserves a straightforward, transparent, and dependable shopping experience.",
+        "Operated by THE HANDLE FACTORY LTD, our UK-based online store focuses on providing home heating solutions, fireplaces, generators, water heaters, saunas, boilers, and related accessories.",
+        "We understand that purchasing heating equipment and home improvement products is an important investment. That's why we're committed to helping our customers make informed decisions through clear product information, transparent policies, and accessible customer support.",
+        "Our commitment extends beyond the checkout process. We aim to provide helpful assistance before, during, and after your purchase.",
+        "1. Our Commitment to Product Quality",
+        "We understand the importance of choosing products that meet your requirements and expectations.",
+        "Our approach focuses on providing accurate information about the products available through our website.",
+        "We aim to:",
+        "* Offer products described accurately and clearly.",
+        "* Provide relevant specifications and product details.",
+        "* Identify product brands, models, and features correctly.",
+        "* Communicate important compatibility and installation requirements.",
+        "* Address product-related enquiries before and after purchase.",
+        "We recognise that products such as generators, fireplaces, boilers, and water heaters may require specialist knowledge or professional installation.",
+        "Customers should always follow manufacturer instructions and applicable safety regulations.",
+        "Where professional installation is required, we recommend using appropriately qualified installers.",
+        "2. Our Commitment to Transparent Pricing",
+        "We believe customers should understand the cost of their purchases before completing an order.",
+        "At The Handle Factory:",
+        "* All product prices are displayed in British Pounds Sterling (GBP, £).",
+        "* Applicable charges are disclosed during checkout.",
+        "* Standard shipping is free for eligible UK orders.",
+        "* There is no minimum order value for free standard shipping.",
+        "* We do not charge restocking fees for eligible returns.",
+        "Our aim is to provide clear pricing information without unexpected standard delivery charges.",
+        "3. Our Commitment to Free UK Shipping",
+        "We offer free standard shipping throughout the United Kingdom for eligible orders.",
+        "Our standard delivery arrangements are:",
+        "Shipping Information",
+        "Our Policy",
+        "Delivery Region",
+        "United Kingdom",
+        "Standard Shipping Cost",
+        "Free (£0.00)",
+        "Minimum Order Value",
+        "None",
+        "Order Cut-Off",
+        "12:00 AM GMT",
+        "Order Handling",
+        "3 business days",
+        "Shipping Transit",
+        "2–4 business days",
+        "Estimated Total Delivery",
+        "5–7 business days",
+        "Processing Days",
+        "Monday–Friday",
+        "Business days exclude weekends and applicable public holidays.",
+        "Delivery estimates may be affected by carrier disruptions, weather conditions, or other unforeseen circumstances.",
+        "We aim to communicate available delivery information clearly and assist customers with shipment enquiries.",
+        "For full details, please review our Shipping & Delivery Policy.",
+        "4. Our Commitment to Straightforward Returns",
+        "We understand that customers may occasionally need to return or exchange a product.",
+        "That's why we offer a 30-day return window for eligible purchases.",
+        "Our standard returns arrangements include:",
+        "* Returns accepted for defective products.",
+        "* Returns accepted for non-defective products.",
+        "* Exchanges accepted for eligible products.",
+        "* New-condition requirement for standard non-defective returns.",
+        "* Free prepaid return labels included in packages.",
+        "* Returns by post or an appropriate arranged carrier.",
+        "* No restocking fees.",
+        "* A standard refund processing target of 10 days.",
+        "For large or heavy equipment, our team can provide instructions for an appropriate return method.",
+        "Your statutory rights under applicable UK consumer protection legislation remain unaffected by our voluntary return arrangements.",
+        "For complete information, please review our Returns & Refunds Policy.",
+        "5. Our Commitment to Customer Support",
+        "We believe clear communication is an important part of good customer service.",
+        "Our support team can assist with:",
+        "* Product information and specifications",
+        "* Questions before purchasing",
+        "* Order confirmation and payment enquiries",
+        "* Delivery and tracking information",
+        "* Order changes and cancellations",
+        "* Returns, refunds, and exchanges",
+        "* Damaged or incorrect products",
+        "* Warranty and after-sales enquiries",
+        "Customers can contact us directly using the following details:",
+        "Email: info@thehandlefactory.uk",
+        "Phone: +44 20 1219 1343",
+        "We aim to review enquiries promptly and provide clear, relevant information.",
+        "6. Our Commitment to Responsible Product Information",
+        "Some products require careful consideration before purchase, particularly those involving heating systems, combustion appliances, electrical installations, or fuel-powered equipment.",
+        "We encourage customers to review product specifications, compatibility requirements, and safety guidance before ordering.",
+        "For example:",
+        "Fireplaces and Wood Stoves: Installation and use must comply with applicable building, ventilation, and fire safety requirements.",
+        "Generators: Fuel-burning generators must never be operated indoors or in enclosed spaces due to the risk of carbon monoxide poisoning.",
+        "Water Heaters and Boilers: Gas appliances must be installed or serviced by appropriately Gas Safe registered engineers where required. Electrical installations must comply with applicable safety requirements.",
+        "Saunas: Electrical connections, ventilation, and installation must follow manufacturer instructions and relevant safety standards.",
+        "Our customer support team can assist with general product information, but it does not replace the advice of a qualified installer or technical professional.",
+        "7. Our Commitment to Honest Communication",
+        "We aim to communicate clearly about our products, services, and policies.",
+        "This includes providing information about:",
+        "* Product features and specifications",
+        "* Pricing and payment options",
+        "* Estimated delivery times",
+        "* Return eligibility and procedures",
+        "* Refund processing",
+        "* Warranty information",
+        "* Customer support channels",
+        "If a customer encounters a problem, we encourage them to contact us so we can investigate and provide an appropriate resolution.",
+        "We believe transparent communication helps build long-term customer confidence.",
+        "8. Our Commitment to Privacy & Data Protection",
+        "We recognise the importance of protecting personal information.",
+        "We aim to handle customer data responsibly and in accordance with applicable UK data protection requirements.",
+        "Personal information may be used for purposes such as:",
+        "* Processing and fulfilling orders",
+        "* Arranging delivery",
+        "* Providing customer support",
+        "* Handling returns and refunds",
+        "* Communicating important order updates",
+        "* Meeting applicable legal obligations",
+        "For more information about how we collect, use, and protect personal information, please review our Privacy Policy.",
+        "Customers may contact info@thehandlefactory.uk with privacy-related enquiries.",
+        "9. Our Commitment to Fair Customer Treatment",
+        "We respect the rights of customers under applicable UK consumer protection laws.",
+        "Our store policies are intended to provide clear information about purchasing, delivery, returns, and after-sales support.",
+        "We recognise that customers may have statutory rights relating to:",
+        "* Goods that are faulty or not as described",
+        "* Goods that do not meet applicable quality standards",
+        "* Late or failed deliveries",
+        "* Cancellation of eligible distance purchases",
+        "* Refunds and other legally available remedies",
+        "Nothing in our store policies is intended to exclude or restrict consumer rights that cannot lawfully be excluded.",
+        "We aim to address customer concerns fairly and in accordance with applicable legal requirements.",
+        "10. Our Commitment to Continuous Improvement",
+        "We believe that improving the customer experience is an ongoing responsibility.",
+        "We aim to review and improve our website information, shopping processes, customer support procedures, and product presentation as our business develops.",
+        "Customer enquiries and feedback can help us identify areas where clearer information or improved service may be needed.",
+        "We welcome constructive feedback and encourage customers to share their experiences with our support team.",
+        "11. Our Promise to You",
+        "At The Handle Factory, our priorities are simple:",
+        "Clarity: Providing useful product information and understandable policies.",
+        "Transparency: Communicating pricing, delivery estimates, and return conditions clearly.",
+        "Convenience: Making it straightforward to browse products, place orders, and access support.",
+        "Fairness: Respecting applicable consumer rights and addressing concerns appropriately.",
+        "Support: Helping customers with enquiries throughout their purchasing experience.",
+        "We aim to make every interaction with The Handle Factory professional, helpful, and straightforward.",
+        "12. Contact The Handle Factory",
+        "If you have questions, feedback, or need assistance with an order, please contact us.",
+        "The Handle Factory",
+        "Operated by THE HANDLE FACTORY LTD",
         "Business Address:",
-        "1320 W El Segundo Blvd Ste E",
-        "Gardena, CA 90247, United States",
-        "Email: info@droviia.us",
-        "Phone: +1 (424) 329-0223",
-        "Business Hours: Monday–Friday, 9:00 AM–5:00 PM PT",
-        "Live Chat: Available 24/7",
-        "Website: https://droviia.us",
-        "DROVIIA — Everyday Essentials for Better Living."
+        "Studio 210, 134–136 Curtain Road",
+        "London, England EC2A 3AR",
+        "United Kingdom",
+        "Email: info@thehandlefactory.uk",
+        "Phone: +44 20 1219 1343",
+        "Website: https://thehandlefactory.uk",
+        "You can also visit our Contact Us, FAQs, or Order Help Centre pages for additional assistance.",
+        "The Handle Factory — Committed to Your Shopping Experience",
+        "From choosing the right product to receiving your order and accessing after-sales support, our aim is to provide a shopping experience built on clear information, fair policies, and dependable customer service.",
+        "The Handle Factory",
+        "THE HANDLE FACTORY LTD",
+        "https://thehandlefactory.uk"
       ]
     }
   ]
