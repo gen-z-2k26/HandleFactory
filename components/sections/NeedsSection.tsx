@@ -7,35 +7,35 @@ import { cn } from "@/lib/utils";
 
 const needs = [
   {
-    title: "Kitchen and laundry",
-    text: "Refrigerators, wine fridges, range hoods, and laundry appliances for everyday household needs.",
-    image: "/brand/collection-kitchen.jpg",
-    alt: "Kitchen with a refrigerator, range hood, and stacked laundry",
-    imageClass: "object-[62%_center]",
+    title: "Fireplaces and wood stoves",
+    text: "Fireplaces and accessories for wood-burning stoves, including tools and maintenance equipment.",
+    image: "/brand/footer-image.jpg",
+    alt: "House mark with an orange flame",
+    imageClass: "object-center",
     tile: "feature" as const,
   },
   {
-    title: "Heating and air",
-    text: "Air conditioners, furnaces, boilers, humidifiers, and space heaters.",
-    image: "/brand/collection-climate.jpg",
-    alt: "Living room with a wall-mounted air conditioner",
-    imageClass: "object-[center_22%]",
+    title: "Furnaces, boilers, and water heaters",
+    text: "Heating equipment and water heaters. Check specifications and installation requirements before you buy.",
+    image: "/brand/footer-image.jpg",
+    alt: "House mark with an orange flame",
+    imageClass: "object-center",
     tile: "wide" as const,
   },
   {
-    title: "Hair and personal care",
-    text: "Dryers, straighteners, curling irons, and styling sets.",
-    image: "/brand/collection-care.jpg",
-    alt: "Hair dryer and straightener on a bathroom vanity",
-    imageClass: "object-[center_58%]",
+    title: "Generators",
+    text: "Generators for domestic, outdoor, and backup power. Review output, fuel, and safety instructions first.",
+    image: "/brand/footer-image.jpg",
+    alt: "House mark with an orange flame",
+    imageClass: "object-center",
     tile: "compact" as const,
   },
   {
-    title: "Home and commercial",
-    text: "Garage door openers and hand dryers for practical spaces.",
-    image: "/brand/collection-home.jpg",
-    alt: "Garage with a sectional door and opener rail",
-    imageClass: "object-[24%_42%]",
+    title: "Saunas",
+    text: "Sauna products for suitable home spaces, with different configurations and features to compare.",
+    image: "/brand/footer-image.jpg",
+    alt: "House mark with an orange flame",
+    imageClass: "object-center",
     tile: "compact" as const,
   },
 ];
@@ -78,7 +78,7 @@ export function NeedsSection() {
               key={item.title}
               href="/products"
               className={cn(
-                "group relative isolate flex overflow-hidden rounded-2xl bg-[#101613] text-white",
+                "group relative isolate flex overflow-hidden rounded-2xl bg-[#0C0C0C] text-white",
                 tileClass[item.tile],
               )}
             >
@@ -98,7 +98,7 @@ export function NeedsSection() {
               />
               <div
                 aria-hidden
-                className="absolute inset-0 bg-gradient-to-t from-[#101613]/92 via-[#101613]/45 to-[#101613]/10"
+                className="absolute inset-0 bg-gradient-to-t from-[#0C0C0C]/92 via-[#0C0C0C]/45 to-[#0C0C0C]/10"
               />
               <div
                 className={cn(
@@ -110,7 +110,7 @@ export function NeedsSection() {
                   {item.title}
                 </h3>
                 <p className={copyClass[item.tile]}>{item.text}</p>
-                <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-[#9DCFB0]">
+                <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-[#FD7601]">
                   Shop collection
                   <ArrowRight className="size-4 transition-transform duration-200 group-hover:translate-x-0.5" />
                 </span>

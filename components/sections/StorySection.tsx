@@ -19,8 +19,8 @@ export function StorySection({ settings }: { settings: StoreSettings }) {
       >
         <RevealImage className="relative aspect-[4/3] overflow-hidden rounded-2xl bg-muted">
           <Image
-            src="/brand/collection-climate.jpg"
-            alt="Bright living room kept comfortable with a wall-mounted air conditioner"
+            src="/brand/footer-image.jpg"
+            alt="House mark with an orange flame"
             fill
             sizes="(min-width: 1024px) 40vw, 100vw"
             className="object-cover"
@@ -35,12 +35,12 @@ export function StorySection({ settings }: { settings: StoreSettings }) {
             id="story-heading"
             className="font-display text-balance text-3xl sm:text-4xl"
           >
-            A better home starts with the right essentials
+            A comfortable home starts with the right equipment
           </h2>
           <p className="text-pretty text-lg leading-relaxed text-muted-foreground">
-            DROVIIA is a U.S. online shop for home appliances, climate comfort,
-            and personal care, operated by {settings.contact.legalName} in
-            Gardena, California.
+            {settings.name} is a UK online shop for home heating, fireplaces,
+            power equipment, saunas, and related accessories, operated by{" "}
+            {settings.contact.legalName} in London, England.
           </p>
           <ul className="space-y-3 text-sm leading-relaxed text-muted-foreground">
             <li>Product details, prices, and shipping charges shown before checkout.</li>

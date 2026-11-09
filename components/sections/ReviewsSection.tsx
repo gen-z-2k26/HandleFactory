@@ -20,7 +20,7 @@ export function ReviewsSection({ settings }: { settings: StoreSettings }) {
         <SectionHeader
           eyebrow="Shopper notes"
           title="A few words from recent orders"
-          subtitle={`${total} ${settings.name} reviews from shoppers across the United States.`}
+          subtitle={`${total} ${settings.name} reviews from shoppers across the United Kingdom.`}
           titleId="reviews-heading"
           action={
             <Link

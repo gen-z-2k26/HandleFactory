@@ -8,13 +8,13 @@ import { cn } from "@/lib/utils";
 const items: TrustItem[] = [
   {
     icon: "truck",
-    title: "Shipping from $5",
-    text: "Standard shipping is $5 under $100 and free at $100 or more. Large appliances may include freight charges shown at checkout. Estimated parcel delivery is 3-6 business days.",
+    title: "Free UK shipping",
+    text: "Free standard shipping on eligible UK orders, with no minimum. Estimated delivery is 5 to 7 business days.",
   },
   {
     icon: "refresh",
     title: "30-day returns",
-    text: "Eligible products can be requested for return within 30 days. Conditions, customer-paid return shipping, and a $5 restocking fee may apply.",
+    text: "Eligible products can be returned within 30 days. A free prepaid return label is included, and there is no restocking fee.",
   },
   {
     icon: "shield",
@@ -24,7 +24,7 @@ const items: TrustItem[] = [
   {
     icon: "message",
     title: "Help when you need it",
-    text: "Reach us by email or phone during opening hours. Live chat 24/7.",
+    text: "Email info@thehandlefactory.uk or call +44 20 1219 1343.",
   },
 ];
 

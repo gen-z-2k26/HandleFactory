@@ -300,7 +300,7 @@ export function ProductDetail({
                 title: "Shipping and returns",
                 content: (
                   <>
-                    <p>Estimated delivery is 3 to 7 business days after processing.</p>
+                    <p>Estimated UK delivery is 5 to 7 business days, including order handling.</p>
                     <p className="mt-2">
                       Eligible items may be returned within 30 days. Questions:{" "}
                       {settings.contact.email}
@@ -313,7 +313,7 @@ export function ProductDetail({
                 title: "Support",
                 content: (
                   <p>
-                    Live chat is available 24/7. Email {settings.contact.email}
+                    Email {settings.contact.email}
                     {settings.contact.phone ? ` or call ${settings.contact.phone}` : ""}.
                   </p>
                 ),

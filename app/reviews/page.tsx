@@ -10,7 +10,7 @@ export const revalidate = 60;
 export const metadata: Metadata = {
   title: "Customer reviews",
   description:
-    "110 Droviia reviews from shoppers across all 50 U.S. states, covering orders, packing, and delivery.",
+    "110 The Handle Factory reviews from shoppers across the United Kingdom, covering orders, packing, and delivery.",
 };
 
 export default async function ReviewsPage() {
@@ -22,9 +22,9 @@ export default async function ReviewsPage() {
     <div className={pageContainer("py-10 sm:py-14")}>
       <PageHero
         current="Reviews"
-        eyebrow={`${settings.name} · United States`}
-        title={`${total} reviews from across the USA`}
-        description={`${total} shopper reviews of ${settings.name} from ${stateCount} states. People wrote about the appliances and personal-care items they ordered, plus packing and delivery to their city. Filter by star rating or sort by date.`}
+        eyebrow={`${settings.name} · United Kingdom`}
+        title={`${total} reviews from across the UK`}
+        description={`${total} shopper reviews of ${settings.name} from ${stateCount} areas. People wrote about the heating, power, and home equipment they ordered, plus packing and delivery. Filter by star rating or sort by date.`}
       />
 
       <div className="mt-10">

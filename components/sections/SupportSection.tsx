@@ -7,8 +7,8 @@ export function SupportSection({ settings }: { settings: StoreSettings }) {
   const facts = [
     { label: "Email", value: settings.contact.email, href: `mailto:${settings.contact.email}` },
     { label: "Phone", value: settings.contact.phone, href: `tel:${phoneHref}` },
-    { label: "Hours", value: settings.contact.openingHours },
-    { label: "Live chat", value: settings.footer?.chatLine || "24/7 Live Chat" },
+    { label: "Company", value: settings.contact.legalName },
+    { label: "Website", value: "thehandlefactory.uk", href: "https://thehandlefactory.uk" },
   ];
 
   return (
@@ -17,15 +17,15 @@ export function SupportSection({ settings }: { settings: StoreSettings }) {
       className={cn("border-b border-border", sectionYClass)}
     >
       <div className={pageContainer()}>
-        <div className="rounded-lg bg-[#101613] px-6 py-10 text-[#F3F7F2] sm:px-10">
-          <p className="text-sm font-medium tracking-[0.16em] text-[#9DCFB0] uppercase">
+        <div className="rounded-lg bg-[#0C0C0C] px-6 py-10 text-[#F7F4F0] sm:px-10">
+          <p className="text-sm font-medium tracking-[0.16em] text-[#FD7601] uppercase">
             Customer support
           </p>
           <h2
             id="support-heading"
             className="font-display mt-3 max-w-xl text-3xl text-balance sm:text-4xl"
           >
-            Phone on weekdays. Live chat any time.
+            Email or call about a product, an order, or a delivery.
           </h2>
           <p className="mt-4 max-w-2xl text-sm leading-relaxed text-white/70">
             {settings.contact.address}
@@ -38,7 +38,7 @@ export function SupportSection({ settings }: { settings: StoreSettings }) {
                 </dt>
                 <dd className="mt-2 text-sm">
                   {fact.href && fact.value ? (
-                    <a href={fact.href} className="hover:text-[#9DCFB0]">
+                    <a href={fact.href} className="hover:text-[#FD7601]">
                       {fact.value}
                     </a>
                   ) : (

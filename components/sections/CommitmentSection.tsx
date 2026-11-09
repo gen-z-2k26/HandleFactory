@@ -12,15 +12,15 @@ const pillars = [
   },
   {
     title: "Transparent pricing",
-    text: "Prices are in U.S. dollars. Shipping and the order total are shown before you pay.",
+    text: "Prices are in British Pounds Sterling. Shipping and the order total are shown before you pay.",
   },
   {
-    title: "Shipping you can review",
-    text: "Standard shipping is $5 under $100 and free at $100 or more. Freight for large appliances is shown at checkout.",
+    title: "Free UK standard shipping",
+    text: "Free standard shipping on eligible UK orders, with no minimum. Estimated delivery is 5 to 7 business days.",
   },
   {
     title: "Straightforward returns",
-    text: "Eligible items have a 30-day window. Conditions apply, return shipping is paid by the customer, and a $5 restocking fee applies to standard non-defective returns.",
+    text: "Eligible products have a 30-day window, including exchanges. A free prepaid return label is included, with no restocking fee.",
   },
 ];
 
@@ -34,7 +34,7 @@ export function CommitmentSection() {
         <SectionHeader
           eyebrow="Our commitment"
           title="Clear information, then support when you need it"
-          subtitle="The same standards apply whether the order is a styling tool or a major appliance."
+          subtitle="The same standards apply whether the order is an accessory or a larger piece of heating equipment."
           titleId="commitment-heading"
           action={
             <Link
