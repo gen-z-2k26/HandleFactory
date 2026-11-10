@@ -43,4 +43,20 @@ describe("CTX feed links", () => {
     assert.match(out, /wp\.droviia\.us\/wp-content\/uploads/);
     assert.equal(out.includes("/product/"), false);
   });
+
+  it("rewrites https WordPress links when Woo is configured as http://wp.thehandlefactory.uk", () => {
+    const xml = `<channel>
+<title><![CDATA[ wp.thehandlefactory.uk ]]></title>
+<link><![CDATA[ https://wp.thehandlefactory.uk ]]></link>
+<item>
+<link><![CDATA[ https://wp.thehandlefactory.uk/product/hyundai-generator/ ]]></link>
+<g:image_link><![CDATA[ https://wp.thehandlefactory.uk/wp-content/uploads/gen.jpg ]]></g:image_link>
+</item>
+</channel>`;
+    const out = rewriteProductLinks(xml, "http://wp.thehandlefactory.uk", "http://thehandlefactory.uk");
+    assert.match(out, /<title>thehandlefactory\.uk<\/title>/);
+    assert.match(out, /<link>http:\/\/thehandlefactory\.uk\/<\/link>/);
+    assert.match(out, /<link>http:\/\/thehandlefactory\.uk\/products\/hyundai-generator<\/link>/);
+    assert.match(out, /wp\.thehandlefactory\.uk\/wp-content\/uploads\/gen\.jpg/);
+  });
 });
