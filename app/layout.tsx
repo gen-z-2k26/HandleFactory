@@ -73,6 +73,9 @@ export async function generateMetadata(): Promise<Metadata> {
         index: true,
         follow: true,
       },
+      verification: {
+        google: "j2E9k8CXy1v9uVnxTSc76C3B1KjRuqBVcfWtT-Bu4tk",
+      },
       alternates: {
         canonical: "/",
       },
@@ -84,6 +87,9 @@ export async function generateMetadata(): Promise<Metadata> {
       robots: {
         index: true,
         follow: true,
+      },
+      verification: {
+        google: "j2E9k8CXy1v9uVnxTSc76C3B1KjRuqBVcfWtT-Bu4tk",
       },
     };
   }
