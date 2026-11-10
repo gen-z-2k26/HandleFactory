@@ -127,13 +127,30 @@ function pushLine(blocks: Block[], line: string) {
   });
 }
 
+function uniqueId(base: string, used: Set<string>) {
+  const root = base || "section";
+  let id = root;
+  let n = 2;
+  while (used.has(id)) {
+    id = `${root}-${n}`;
+    n += 1;
+  }
+  used.add(id);
+  return id;
+}
+
 function sectionsFrom(lines: string[]) {
   const sections: Section[] = [];
-  let current: Section = { id: "overview", title: null, blocks: [] };
+  const used = new Set<string>();
+  let current: Section = { id: uniqueId("overview", used), title: null, blocks: [] };
   for (const line of lines) {
     if (isSectionHeading(line)) {
       if (current.title || current.blocks.length) sections.push(current);
-      current = { id: slugify(line) || `section-${sections.length + 1}`, title: line, blocks: [] };
+      current = {
+        id: uniqueId(slugify(line) || `section-${sections.length + 1}`, used),
+        title: line,
+        blocks: [],
+      };
       continue;
     }
     pushLine(current.blocks, line);
