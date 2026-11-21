@@ -1,0 +1,13 @@
+name: dropper-guard
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reject PolinRider boot files
+        run: python3 scripts/dropper-guard.py
